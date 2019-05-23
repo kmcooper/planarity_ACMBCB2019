@@ -1,0 +1,762 @@
+Complex	Planar?
+13-beta-glucan synthase complex (Fks1pRho1p)	TRUE
+13-beta-glucan synthase complex (Gsc2pSmk1p)	TRUE
+6-phosphofructokinase complex	TRUE
+acetolactate synthase complex	TRUE
+actin cytoskeleton-regulatory complex Pan1pSla1pEnd3p complex	TRUE
+Ada2pGcn5pAda3 transcription activator complex	TRUE
+adenylyl cyclase complex	TRUE
+adoMet-dependent tRNA methyltransferase (Mtase) Complex	TRUE
+alpha DNA polymeraseprimase complex	TRUE
+alpha-16-mannosyltransferase complex(Van1pMnn9p)	TRUE
+alphaalpha-trehalose-phosphate synthase complex (UDP-forming)	TRUE
+anthranilate synthase complex	TRUE
+AP-1 adaptor complex	TRUE
+AP-2 adaptor complex	TRUE
+AP-3 adaptor complex	TRUE
+Apg12pApg5pApg16 multimeric complex	TRUE
+ARGR complex	TRUE
+Atg20pSnx4pSnx41p complex	TRUE
+Aurora B-INCENP protein kinase complex	TRUE
+Bi3 ribonucleoprotein complex	TRUE
+Bi4pNam2p complex	TRUE
+Bni4pGlc7p complex	TRUE
+box CD snoRNP complex	TRUE
+Bub1pBub3p complex	TRUE
+Bub2pBfa1p complex	TRUE
+Bud14pGlc7p complex	TRUE
+CAAX-protein geranylgeranyltransferase complex	TRUE
+calcineurin complex	TRUE
+cAMP-dependent protein kinase	TRUE
+Car1pArg3p complex	TRUE
+carbamoyl-phosphate synthase complex	TRUE
+carboxy-terminal domain protein kinase complex	TRUE
+Cbf1pMet4pMet28p complex	TRUE
+CBF3 complex	TRUE
+Cbp1pPet309p complex	TRUE
+CCAAT-binding factor complex	TRUE
+Cdc24pFar1pGbetagamma protein complex	TRUE
+Cdc28pClb1p complex	TRUE
+Cdc28pClb2p complex	TRUE
+Cdc28pClb3p complex	TRUE
+Cdc28pClb4p complex	TRUE
+Cdc28pClb5p complex	TRUE
+Cdc28pClb6p complex	TRUE
+Cdc28pCln1p complex	TRUE
+Cdc28pCln2p complex	TRUE
+Cdc28pCln3p complex	TRUE
+Cdc42pSte20p complex	TRUE
+Cdc48p complex	TRUE
+Cdc7pDbf4p complex	TRUE
+chromatin accessibility complex	TRUE
+chromatin assembly complex	TRUE
+chromatin silencing complex	TRUE
+Chz1pHtz1pHtb1p complex	TRUE
+Clathrin	TRUE
+cohesin loading factor complex	TRUE
+COMA complex	TRUE
+Cox14pCox1pMss51p complex	TRUE
+Csh1pCsg2p complex	TRUE
+Csm1pLrs4p complex	TRUE
+Ctf3p protein complex	TRUE
+Cul3p-RING ubiquitin ligase complex	TRUE
+CURI complex	TRUE
+cytoplasmic dynein complex	TRUE
+Dcs1pDcs2 heterodimer	TRUE
+Decapping Enzyme Complex	TRUE
+Def1pRad26p complex	TRUE
+degradosome	TRUE
+Dig1pSte12pDig2p complex	TRUE
+DNA ligase IV	TRUE
+DNA polymerase delta complex	TRUE
+DNA polymerase epsilon complex	TRUE
+DNA replication factor A complex	TRUE
+Dop1pMon2p complex	TRUE
+Dpb11pSld2p complex	TRUE
+DSIF complex	TRUE
+dynactin complex	TRUE
+EGO complex	TRUE
+eIF1eIF1A40S complex	TRUE
+eIF2	TRUE
+eIF4F	TRUE
+Eisosome	TRUE
+EKCKEOPS protein complex	TRUE
+Ela1pElc1p complex	TRUE
+ER V-ATPase assembly complex	TRUE
+Erv41pErv46p complex	TRUE
+ESCRT I complex	TRUE
+ESCRT II complex	TRUE
+ESCRT III complex	TRUE
+Esp1pPds1p complex	TRUE
+FACT complex	TRUE
+Fatty Acid Import Complex	TRUE
+fatty acid synthase complex	TRUE
+Fig4pVac14p complex	TRUE
+Fth1pFet5p complex	TRUE
+Gac1pGlc7p complex	TRUE
+GAL3pGAL80p complex	TRUE
+GAL4pGAL80p complex	TRUE
+gamma-tubulin complex	TRUE
+GARP complex	TRUE
+Gcd10pGcd14p complex	TRUE
+Gcn1pGcn20p complex	TRUE
+GCR complex	TRUE
+Geranylgeranyltransferase II (GGTase II)	TRUE
+GET complex	TRUE
+GINS complex	TRUE
+Gip1pGlc7p complex	TRUE
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	TRUE
+Grh1pBug1p complex	TRUE
+GSE Complex	TRUE
+GSH degradosomal complex	TRUE
+guanyl-nucleotide exchange factor complex	TRUE
+Gyl1pGyp5p complex	TRUE
+HAT-B complex	TRUE
+heterodimeric G-protein complex	TRUE
+heterotrimeric G-protein complex	TRUE
+HIR complex	TRUE
+histone deacetylase complex	TRUE
+histone H2A phosphatase complex	TRUE
+HMC Complex	TRUE
+Holliday junction resolvase complex	TRUE
+Hop2pMnd1p complex	TRUE
+Hse1pVps27p complex	TRUE
+Hym1pKic1pSog2p complex	TRUE
+i-AAA complex	TRUE
+Ino2pIno4p basic helix-loop-helix heteromeric complex	TRUE
+Isocitrate dehydrogenase	TRUE
+ISW1a complex	TRUE
+ISW1b complex	TRUE
+karyopherin docking subcomplex of the Nuclear Pore Complex (NPC)	TRUE
+Kel1pKel2p complex	TRUE
+Kel1pKel2pLte1p complex	TRUE
+Ku complex	TRUE
+Lge1pBre1p complex	TRUE
+luminal surveillance complex	TRUE
+m-AAA complex	TRUE
+Mad1pMad2p complex	TRUE
+MBF complex	TRUE
+Mdm12pMmm1pMdm10p complex	TRUE
+Mei5pSae3p complex	TRUE
+meiotic recombination initiation complex	TRUE
+Met4pMet28pMet31p complex	TRUE
+Met4pMet28pMet32p complex	TRUE
+methionyl glutamyl tRNA synthetase complex	TRUE
+Mgm1pUgo1pFzo1p complex	TRUE
+MIND complex	TRUE
+mitochondrial ATPase inhibitor complex	TRUE
+mitochondrial inner membrane peptidase complex	TRUE
+mitochondrial inner membrane protein insertion complex	TRUE
+mitochondrial intermembrane space protein transporter complex	TRUE
+mitochondrial oxoglutarate dehydrogenase complex	TRUE
+mitochondrial processing peptidase complex	TRUE
+mitochondrial pyruvate dehydrogenase complex	TRUE
+mitochondrial sorting and assembly machinery complex	TRUE
+mitotic checkpoint complex	TRUE
+Mks1pRtg2p complex	TRUE
+Mlh1pMlh2p complex	TRUE
+Mlh1pMlh3p complex	TRUE
+Mlh1pPms1p complex	TRUE
+Mob1pDbf2p complex	TRUE
+Mob2pCbk1p complex	TRUE
+Mon1pCcz1p complex	TRUE
+monopolin complex	TRUE
+Mot1p complex	TRUE
+Mps2pBbp1p complex	TRUE
+mRNA guanylyl transferase (capping complex)	TRUE
+MRX complex	TRUE
+MSH2pMSH3p complex	TRUE
+MSH2pMSH6p complex	TRUE
+Mst27pMst28p complex	TRUE
+Mtk1pPbp1p complex	TRUE
+Mto1pMss1p complex	TRUE
+Mtr2pMex67p complex	TRUE
+nascent polypeptide-associated complex	TRUE
+NatA complex	TRUE
+NatB complex	TRUE
+NatC complex	TRUE
+NC2 complex	TRUE
+Ndc80p complex	TRUE
+Nem1pSpo7p complex	TRUE
+Nfs1pIsd11p complex	TRUE
+Noc1pNoc2p complex	TRUE
+Noc2pNoc3p complex	TRUE
+Noc4pNop14p complex	TRUE
+Nonsense-mediated mRNA decay pathway complex	TRUE
+Nsp1p complex	TRUE
+Nsp1pNup82p complex	TRUE
+Ntr1pNtr2pPrp43p complex	TRUE
+NuA3 histone acetyltransferase complex	TRUE
+nuclear cohesin complex	TRUE
+nuclear ubiquitin ligase complex	TRUE
+nucleotide-excision repair factor 1 complex	TRUE
+nucleotide-excision repair factor 2 complex	TRUE
+nucleotide-excision repair factor 4 complex	TRUE
+Nup82 nuclear pore subcomplex	TRUE
+OAF complex	TRUE
+OCA complex	TRUE
+other DNA repair complexes	TRUE
+palmitoyltransferase complex	TRUE
+PAN complex	TRUE
+Permease-Oxidase Complex	TRUE
+peroxin docking complex	TRUE
+Phenylalaninine-tRNA-ligase	TRUE
+Pho85pPcl10p complex	TRUE
+Pho85pPcl1p complex	TRUE
+Pho85pPcl2p complex	TRUE
+Pho85pPcl8p complex	TRUE
+Pho85pPho80p complex	TRUE
+phosphatidylinositol (PtdIns) 3-kinase complex (functions in autophagy)	TRUE
+phosphatidylinositol (PtdIns) 3-kinase complex (functions in CPY sorting)	TRUE
+Png1pRad23p complex	TRUE
+polarisome complex	TRUE
+Polzeta-Rev1p complex	TRUE
+prohibitin complex	TRUE
+protein farnesyltransferase complex	TRUE
+protein kinase CK2 complex	TRUE
+Protein O-mannosyltransferase(Pmt1pPmt2p)	TRUE
+Protein O-mannosyltransferase(Pmt3pPmt5p)	TRUE
+protein phosphatase type 2A complex (Cdc55p)	TRUE
+protein phosphatase type 2A complex (Rts1p)	TRUE
+Prp9pPrp11pPrp21p complex(SF3a complex)	TRUE
+Psr1pWhi2p complex	TRUE
+Pxa1pPxa2p complex	TRUE
+Q-biosynthetic Coq polypeptide complex	TRUE
+Rad17pDdc1pMec3p complex	TRUE
+Rad53pAsf1p complex	TRUE
+Rad6pRad18p complex	TRUE
+RAVE complex	TRUE
+RecQ helicase-Topo III complex	TRUE
+Reg1pGlc7p complex	TRUE
+Reg2pGlc7p complex	TRUE
+RENT complex	TRUE
+RES complex	TRUE
+ribonuclease H2 complex	TRUE
+ribonucleoside-diphosphate reductase complex	TRUE
+Ribosome-associated complex (RAC)	TRUE
+RING finger peroxin complex	TRUE
+Rix1p complex	TRUE
+RNA Degradation Complex	TRUE
+RNA polymerase I transcription factor complex	TRUE
+Rot2pGtb1p complex	TRUE
+Rsp5pBul1 ubiquitin ligase complex	TRUE
+Rsp5pBul2 ubiquitin ligase complex	TRUE
+Rtg1pRtg3p complex	TRUE
+Rtt109pVps75p complex	TRUE
+Rvs161pRvs167p complex	TRUE
+Sac3pThp1p complex	TRUE
+Sap155pSit4p complex	TRUE
+Sap185pSit4p complex	TRUE
+Sap190pSit4p complex	TRUE
+SAS Complex	TRUE
+SBF complex	TRUE
+SCF-CDC4 complex	TRUE
+Sds22pGlc7p complex	TRUE
+Sec61p translocon complex	TRUE
+Sec62pSec63p complex	TRUE
+serine C-palmitoyltransferase complex	TRUE
+Sfb3pSec23p complex	TRUE
+Sgv1pBur2p complex	TRUE
+Shq1pNaf1p complex	TRUE
+signal peptidase complex	TRUE
+signal recognition particle receptor complex	TRUE
+Ski Complex	TRUE
+Sko1pCyc8pTup1 repressor complex	TRUE
+Sli15pBir1p complex	TRUE
+Slx1pSlx4p complex	TRUE
+Slx5pSlx8p complex	TRUE
+SNARE complex	TRUE
+Snf1pSnf4pGal83p complex	TRUE
+Snf1pSnf4pSip1p complex	TRUE
+Snf1pSnf4pSip2p complex	TRUE
+Sno1pSnz1p complex	TRUE
+Sod1pCcs1p complex	TRUE
+Sro1pSec4pSec9p complex	TRUE
+Ssh1p translocon complex	TRUE
+STE5-MAPK complex	TRUE
+Succinate dehydrogenase complex (complex II)	TRUE
+Succinyl-CoA ligase	TRUE
+sulfite reductase complex (NADPH)	TRUE
+Sum1pRfm1pHst1p complex	TRUE
+Sur1pCsg2p complex	TRUE
+Swh1pNvj1p complex	TRUE
+Synaptonemal complex (SC)	TRUE
+Tap42pPph21pRrd2p complex	TRUE
+Tap42pSit4pRrd1p complex	TRUE
+Telomerase	TRUE
+THO complex	TRUE
+Tim8pTim13p complex	TRUE
+Tof1pMrc1pCsm3p complex	TRUE
+TORC 1 complex	TRUE
+TRAMP complex (Air1p)	TRUE
+TRAMP complex (Air2p)	TRUE
+transcription export complex	TRUE
+transcription factor TFIIA complex	TRUE
+transcription factor TFIIE complex	TRUE
+transcription factor TFIIF complex	TRUE
+transcription factor TFIIIB complex	TRUE
+translation release factor complex	TRUE
+tRNA Methyltransferase Complex	TRUE
+tRNA-intron endonuclease complex	TRUE
+Tubulins	TRUE
+Tup1pSsn6p complex	TRUE
+Uba2pAos1p complex	TRUE
+ubiquitin conjugating enzyme complex	TRUE
+ubiquitin ligase ERAD-M complex	TRUE
+Ubp3pBre5p complex	TRUE
+UDP-N-acetylglucosamine transferase complex	TRUE
+Ula1pUba3p complex	TRUE
+Ume6pIme1p complex	TRUE
+Vam3pVam7 vacuolar tSNARE complex	TRUE
+VTC heterotetrameric complex	TRUE
+zeta DNA polymerase complex	TRUE
+1922S regulator	FALSE
+20S proteasome	FALSE
+alpha-16-mannosyltransferase complex(Anp1pMnn9p)	FALSE
+anaphase-promoting complex	FALSE
+Arp23 protein complex	FALSE
+CCR4-NOT core complex	FALSE
+Cdc73pPaf1p complex	FALSE
+chaperonin-containing T-complex	FALSE
+Chs5pArf-1binding proteins (ChAPs)	FALSE
+commitment complex	FALSE
+COMPASS complex	FALSE
+COPI	FALSE
+COPII	FALSE
+CORVET complex	FALSE
+Cytochrome bc1 complex (Ubiquinol-cytochrome c reductase complex complex III)	FALSE
+Cytochrome c oxidase (complex IV)	FALSE
+Cytoplasmic exosome complex	FALSE
+cytoplasmic ribosomal large subunit	FALSE
+cytoplasmic ribosomal small subunit	FALSE
+DASH complex	FALSE
+DNA replication factor C complex (Ctf18pCtf8pdcc1p)	FALSE
+DNA replication factor C complex (Elg1p)	FALSE
+DNA replication factor C complex (Rad24p)	FALSE
+DNA replication factor C complex (Rcf1p)	FALSE
+DNA-directed RNA polymerase I complex	FALSE
+DNA-directed RNA polymerase II complex	FALSE
+DNA-directed RNA polymerase III complex	FALSE
+Dsl1p complex	FALSE
+eEF1	FALSE
+eIF2B	FALSE
+eIF3	FALSE
+Elongator complex	FALSE
+Exocyst complex	FALSE
+F0F1 ATP synthase (complex V)	FALSE
+Far3pFar7pFar8pFar9pFar10pFar11p complex	FALSE
+FBP degradation complex	FALSE
+Golgi transport complex	FALSE
+GPI-anchor transamidase complex	FALSE
+H-transporting ATPase Golgi	FALSE
+H-transporting ATPase vacuolar	FALSE
+HOPS complex	FALSE
+Ino80p complex	FALSE
+Kornbergs mediator (SRB) complex	FALSE
+Mcm2-7 complex	FALSE
+mitochondrial inner membrane presequence translocase complex	FALSE
+mitochondrial outer membrane translocase complex	FALSE
+mitochondrial ribosomal large subunit	FALSE
+mitochondrial ribosomal small subunit	FALSE
+mRNA cleavage and polyadenylation specificity factor complex	FALSE
+mRNA cleavage factor complex (CFI)	FALSE
+multi-eIF complex	FALSE
+Npa2p-containing subcomplex	FALSE
+NuA4 histone acetyltransferase complex	FALSE
+nuclear condensin complex	FALSE
+Nuclear exosome complex	FALSE
+nucleolar ribonuclease P complex	FALSE
+Nucleosomal protein complex	FALSE
+nucleotide-excision repair factor 3 complex	FALSE
+Nup84p complex	FALSE
+oligosaccharyl transferase complex	FALSE
+Origin recognition complex	FALSE
+PAM complex	FALSE
+prefoldin complex	FALSE
+Prp19-associated complex	FALSE
+retromer complex	FALSE
+ribonuclease MRP complex	FALSE
+RNA polymerase I upstream activating factor complex	FALSE
+Rpd3L complex	FALSE
+Rpd3S complex	FALSE
+RSC complex	FALSE
+SAGA complex	FALSE
+Set3p complex	FALSE
+SF3b complex	FALSE
+Signal recognition particle (SRP)	FALSE
+signalosome complex	FALSE
+SLIK (SAGA-like) complex	FALSE
+smc5p-Smc6p complex	FALSE
+SPB components	FALSE
+SWISNF complex	FALSE
+Swr1p complex	FALSE
+TORC 2 complex	FALSE
+transcription factor TFIID complex	FALSE
+transcription factor TFIIH complex	FALSE
+transcription factor TFIIIC complex	FALSE
+TRAPP complex	FALSE
+U1 snRNP complex	FALSE
+U2 snRNP complex	FALSE
+U4U6 x U5 tri-snRNP complex	FALSE
+U5 snRNP complex	FALSE
+U6 snRNP complex	FALSE
+ubiquitin ligase ERAD-L complex	FALSE
+UTP A complex	FALSE
+UTP B complex	FALSE
+UTP C complex	FALSE
+2	TRUE
+17	TRUE
+53	TRUE
+59	TRUE
+63	TRUE
+64	TRUE
+69	TRUE
+70	TRUE
+71	TRUE
+72	TRUE
+74	TRUE
+75	TRUE
+76	TRUE
+77	TRUE
+80	TRUE
+81	TRUE
+82	TRUE
+84	TRUE
+85	TRUE
+86	TRUE
+88	TRUE
+89	TRUE
+90	TRUE
+91	TRUE
+92	TRUE
+93	TRUE
+94	TRUE
+95	TRUE
+96	TRUE
+97	TRUE
+98	TRUE
+99	TRUE
+100	TRUE
+101	TRUE
+102	TRUE
+103	TRUE
+105	TRUE
+106	TRUE
+107	TRUE
+108	TRUE
+109	TRUE
+110	TRUE
+111	TRUE
+112	TRUE
+113	TRUE
+114	TRUE
+115	TRUE
+116	TRUE
+117	TRUE
+118	TRUE
+120	TRUE
+121	TRUE
+122	TRUE
+123	TRUE
+124	TRUE
+125	TRUE
+127	TRUE
+128	TRUE
+129	TRUE
+130	TRUE
+131	TRUE
+132	TRUE
+133	TRUE
+134	TRUE
+135	TRUE
+136	TRUE
+137	TRUE
+138	TRUE
+139	TRUE
+140	TRUE
+141	TRUE
+142	TRUE
+143	TRUE
+144	TRUE
+145	TRUE
+147	TRUE
+148	TRUE
+149	TRUE
+150	TRUE
+151	TRUE
+152	TRUE
+153	TRUE
+154	TRUE
+155	TRUE
+156	TRUE
+158	TRUE
+159	TRUE
+160	TRUE
+161	TRUE
+162	TRUE
+163	TRUE
+164	TRUE
+165	TRUE
+166	TRUE
+167	TRUE
+168	TRUE
+169	TRUE
+170	TRUE
+171	TRUE
+173	TRUE
+174	TRUE
+175	TRUE
+176	TRUE
+177	TRUE
+178	TRUE
+179	TRUE
+180	TRUE
+182	TRUE
+183	TRUE
+184	TRUE
+185	TRUE
+186	TRUE
+187	TRUE
+188	TRUE
+190	TRUE
+192	TRUE
+193	TRUE
+194	TRUE
+195	TRUE
+196	TRUE
+197	TRUE
+198	TRUE
+199	TRUE
+200	TRUE
+201	TRUE
+202	TRUE
+203	TRUE
+204	TRUE
+207	TRUE
+208	TRUE
+209	TRUE
+210	TRUE
+211	TRUE
+212	TRUE
+213	TRUE
+214	TRUE
+215	TRUE
+216	TRUE
+217	TRUE
+218	TRUE
+219	TRUE
+220	TRUE
+221	TRUE
+222	TRUE
+225	TRUE
+227	TRUE
+228	TRUE
+229	TRUE
+230	TRUE
+231	TRUE
+232	TRUE
+233	TRUE
+235	TRUE
+236	TRUE
+238	TRUE
+239	TRUE
+240	TRUE
+242	TRUE
+243	TRUE
+244	TRUE
+249	TRUE
+250	TRUE
+251	TRUE
+252	TRUE
+253	TRUE
+254	TRUE
+255	TRUE
+256	TRUE
+257	TRUE
+258	TRUE
+259	TRUE
+260	TRUE
+261	TRUE
+262	TRUE
+263	TRUE
+264	TRUE
+266	TRUE
+268	TRUE
+269	TRUE
+271	TRUE
+272	TRUE
+273	TRUE
+274	TRUE
+275	TRUE
+276	TRUE
+277	TRUE
+279	TRUE
+280	TRUE
+281	TRUE
+282	TRUE
+283	TRUE
+284	TRUE
+285	TRUE
+286	TRUE
+287	TRUE
+288	TRUE
+289	TRUE
+291	TRUE
+294	TRUE
+296	TRUE
+297	TRUE
+298	TRUE
+299	TRUE
+301	TRUE
+302	TRUE
+303	TRUE
+304	TRUE
+306	TRUE
+307	TRUE
+308	TRUE
+309	TRUE
+310	TRUE
+311	TRUE
+312	TRUE
+313	TRUE
+314	TRUE
+315	TRUE
+316	TRUE
+317	TRUE
+319	TRUE
+320	TRUE
+322	TRUE
+323	TRUE
+324	TRUE
+325	TRUE
+326	TRUE
+327	TRUE
+328	TRUE
+330	TRUE
+331	TRUE
+332	TRUE
+334	TRUE
+335	TRUE
+336	TRUE
+337	TRUE
+338	TRUE
+340	TRUE
+341	TRUE
+342	TRUE
+343	TRUE
+344	TRUE
+346	TRUE
+348	TRUE
+349	TRUE
+350	TRUE
+351	TRUE
+352	TRUE
+353	TRUE
+355	TRUE
+356	TRUE
+357	TRUE
+358	TRUE
+360	TRUE
+361	TRUE
+362	TRUE
+363	TRUE
+364	TRUE
+365	TRUE
+366	TRUE
+367	TRUE
+368	TRUE
+369	TRUE
+370	TRUE
+371	TRUE
+374	TRUE
+375	TRUE
+376	TRUE
+377	TRUE
+378	TRUE
+379	TRUE
+380	TRUE
+381	TRUE
+382	TRUE
+383	TRUE
+385	TRUE
+386	TRUE
+387	TRUE
+389	TRUE
+390	TRUE
+391	TRUE
+393	TRUE
+394	TRUE
+395	TRUE
+396	TRUE
+397	TRUE
+398	TRUE
+399	TRUE
+0	FALSE
+1	FALSE
+3	FALSE
+4	FALSE
+5	FALSE
+6	FALSE
+7	FALSE
+8	FALSE
+9	FALSE
+10	FALSE
+11	FALSE
+12	FALSE
+13	FALSE
+14	FALSE
+15	FALSE
+16	FALSE
+18	FALSE
+19	FALSE
+20	FALSE
+21	FALSE
+22	FALSE
+23	FALSE
+24	FALSE
+25	FALSE
+26	FALSE
+27	FALSE
+28	FALSE
+29	FALSE
+30	FALSE
+31	FALSE
+32	FALSE
+33	FALSE
+34	FALSE
+35	FALSE
+36	FALSE
+37	FALSE
+38	FALSE
+39	FALSE
+40	FALSE
+41	FALSE
+42	FALSE
+43	FALSE
+44	FALSE
+45	FALSE
+46	FALSE
+47	FALSE
+48	FALSE
+49	FALSE
+50	FALSE
+51	FALSE
+52	FALSE
+54	FALSE
+55	FALSE
+56	FALSE
+57	FALSE
+60	FALSE
+61	FALSE
+62	FALSE
+65	FALSE
+66	FALSE
+67	FALSE
+68	FALSE
+73	FALSE
+78	FALSE
+79	FALSE
+83	FALSE
+87	FALSE
+104	FALSE
+126	FALSE

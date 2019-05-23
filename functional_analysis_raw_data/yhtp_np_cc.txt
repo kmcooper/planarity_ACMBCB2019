@@ -1,0 +1,4 @@
+1	membrane (GO:0016020)	5	0.5%	0.5%
+2	protein-containing complex (GO:0032991)	248	25.4%	23.5%
+3	organelle (GO:0043226)	418	42.8%	39.6%
+4	cell (GO:0005623)	384	39.3%	36.4%

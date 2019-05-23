@@ -1,0 +1,1189 @@
+S000000001	YAL001C	S. cerevisiae	TFC3	Transcription Factor class C	1160
+S000000002	YAL002W	S. cerevisiae	VPS8	Vacuolar Protein Sorting	1274
+S000000003	YAL003W	S. cerevisiae	EFB1	Elongation Factor Beta	206
+S000000005	YAL007C	S. cerevisiae	ERP2	Emp24p/Erv25p Related Protein	215
+S000000007	YAL009W	S. cerevisiae	SPO7	SPOrulation	259
+S000000008	YAL010C	S. cerevisiae	MDM10	Mitochondrial Distribution and Morphology	493
+S000000009	YAL011W	S. cerevisiae	SWC3	SWr Complex	625
+S000000011	YAL013W	S. cerevisiae	DEP1	Disability in regulation of Expression of genes involved in Phospholipid biosynthesis	405
+S000000019	YAL021C	S. cerevisiae	CCR4	Carbon Catabolite Repression	837
+S000000021	YAL023C	S. cerevisiae	PMT2	Protein O-MannosylTransferase	759
+S000000022	YAL024C	S. cerevisiae	LTE1	Low Temperature Essential	1435
+S000000031	YAL033W	S. cerevisiae	POP5	Processing Of Precursor RNAs	173
+S000000038	YAL040C	S. cerevisiae	CLN3	CycLiN	580
+S000000039	YAL041W	S. cerevisiae	CDC24	Cell Division Cycle	854
+S000000040	YAL042W	S. cerevisiae	ERV46	ER Vesicle	415
+S000000041	YAL043C	S. cerevisiae	PTA1	Pre-Trna Accumulation	785
+S000000042	YAL044C	S. cerevisiae	GCV3	GlyCine cleaVage	170
+S000000045	YAL047C	S. cerevisiae	SPC72	Spindle Pole Component	622
+S000000064	YAR003W	S. cerevisiae	SWD1	Set1c, WD40 repeat protein	426
+S000000069	YAR014C	S. cerevisiae	BUD14	BUD site selection	709
+S000000079	YAR033W	S. cerevisiae	MST28	Multicopy suppressor of Sec Twenty one	234
+S000000081	YAR042W	S. cerevisiae	SWH1	""	1188
+S000000098	YBL002W	S. cerevisiae	HTB2	Histone h Two B	131
+S000000099	YBL003C	S. cerevisiae	HTA2	Histone h Two A	132
+S000000102	YBL006C	S. cerevisiae	LDB7	Low Dye Binding	180
+S000000103	YBL007C	S. cerevisiae	SLA1	Synthetic Lethal with ABP1	1244
+S000000114	YBL018C	S. cerevisiae	POP8	Processing Of Precursor RNAs	133
+S000000119	YBL023C	S. cerevisiae	MCM2	MiniChromosome Maintenance	868
+S000000121	YBL025W	S. cerevisiae	RRN10	Regulation of RNA polymerase I	145
+S000000122	YBL026W	S. cerevisiae	LSM2	Like SM	95
+S000000123	YBL027W	S. cerevisiae	RPL19B	Ribosomal Protein of the Large subunit	189
+S000000131	YBL035C	S. cerevisiae	POL12	POLymerase	705
+S000000134	YBL038W	S. cerevisiae	MRPL16	Mitochondrial Ribosomal Protein, Large subunit	232
+S000000137	YBL041W	S. cerevisiae	PRE7	PRoteinase yscE	241
+S000000141	YBL045C	S. cerevisiae	COR1	CORe protein of QH2 cytochrome c reductase	457
+S000000168	YBL072C	S. cerevisiae	RPS8A	Ribosomal Protein of the Small subunit	200
+S000000170	YBL074C	S. cerevisiae	AAR2	A1-Alpha2 Repression	355
+S000000180	YBL084C	S. cerevisiae	CDC27	Cell Division Cycle	758
+S000000183	YBL087C	S. cerevisiae	RPL23A	Ribosomal Protein of the Large subunit	137
+S000000186	YBL090W	S. cerevisiae	MRP21	Mitochondrial Ribosomal Protein	177
+S000000188	YBL092W	S. cerevisiae	RPL32	Ribosomal Protein of the Large subunit	130
+S000000189	YBL093C	S. cerevisiae	ROX3	Regulation by OXygen	220
+S000000193	YBL097W	S. cerevisiae	BRN1	homolog of BaRreN	754
+S000000195	YBL099W	S. cerevisiae	ATP1	ATP synthase	545
+S000000199	YBL103C	S. cerevisiae	RTG3	ReTroGrade regulation	486
+S000000213	YBR009C	S. cerevisiae	HHF1	Histone H Four	103
+S000000214	YBR010W	S. cerevisiae	HHT1	Histone H Three	136
+S000000235	YBR031W	S. cerevisiae	RPL4A	Ribosomal Protein of the Large subunit	362
+S000000240	YBR036C	S. cerevisiae	CSG2	Calcium Sensitive Growth	410
+S000000243	YBR039W	S. cerevisiae	ATP3	ATP synthase	311
+S000000249	YBR045C	S. cerevisiae	GIP1	Glc7-Interacting Protein	639
+S000000252	YBR048W	S. cerevisiae	RPS11B	Ribosomal Protein of the Small subunit	156
+S000000254	YBR050C	S. cerevisiae	REG2	REsistance to Glucose repression	338
+S000000259	YBR055C	S. cerevisiae	PRP6	Pre-mRNA Processing	899
+S000000264	YBR060C	S. cerevisiae	ORC2	Origin Recognition Complex	620
+S000000283	YBR079C	S. cerevisiae	RPG1	""	964
+S000000285	YBR081C	S. cerevisiae	SPT7	SuPpressor of Ty's	1332
+S000000291	YBR087W	S. cerevisiae	RFC5	Replication Factor C	354
+S000000299	YBR095C	S. cerevisiae	RXT2	""	430
+S000000306	YBR102C	S. cerevisiae	EXO84	EXOcyst	753
+S000000307	YBR103W	S. cerevisiae	SIF2	Sir4p-Interacting Factor	535
+S000000309	YBR105C	S. cerevisiae	VID24	Vacuolar Import and Degradation	362
+S000000313	YBR109C	S. cerevisiae	CMD1	CalMoDulin	147
+S000000316	YBR112C	S. cerevisiae	CYC8	CYtochrome C	966
+S000000322	YBR118W	S. cerevisiae	TEF2	Translation Elongation Factor	458
+S000000323	YBR119W	S. cerevisiae	MUD1	Mutant U1 Die	298
+S000000326	YBR122C	S. cerevisiae	MRPL36	Mitochondrial Ribosomal Protein, Large subunit	177
+S000000327	YBR123C	S. cerevisiae	TFC1	Transcription Factor class C	649
+S000000330	YBR126C	S. cerevisiae	TPS1	Trehalose-6-Phosphate Synthase	495
+S000000331	YBR127C	S. cerevisiae	VMA2	Vacuolar Membrane Atpase	517
+S000000335	YBR131W	S. cerevisiae	CCZ1	Calcium Caffeine Zinc sensitivity	704
+S000000350	YBR146W	S. cerevisiae	MRPS9	Mitochondrial Ribosomal Protein, Small subunit	278
+S000000356	YBR152W	S. cerevisiae	SPP381	Suppressor of PrP38-1	291
+S000000358	YBR154C	S. cerevisiae	RPB5	RNA Polymerase B	215
+S000000360	YBR156C	S. cerevisiae	SLI15	Synthetically Lethal with Ipl1	698
+S000000364	YBR160W	S. cerevisiae	CDC28	Cell Division Cycle	298
+S000000365	YBR161W	S. cerevisiae	CSH1	CSG1/SUR1 Homolog	376
+S000000371	YBR167C	S. cerevisiae	POP7	Processing Of Precursor RNAs	140
+S000000375	YBR171W	S. cerevisiae	SEC66	SECretory	206
+S000000379	YBR175W	S. cerevisiae	SWD3	Set1c, WD40 repeat protein	315
+S000000383	YBR179C	S. cerevisiae	FZO1	FuZzy Onions homolog	855
+S000000385	YBR181C	S. cerevisiae	RPS6B	Ribosomal Protein of the Small subunit	236
+S000000392	YBR188C	S. cerevisiae	NTC20	Prp19p (NineTeen)-associated Complex	140
+S000000393	YBR189W	S. cerevisiae	RPS9B	Ribosomal Protein of the Small subunit	195
+S000000395	YBR191W	S. cerevisiae	RPL21A	Ribosomal Protein of the Large subunit	160
+S000000397	YBR193C	S. cerevisiae	MED8	MEDiator complex	223
+S000000402	YBR198C	S. cerevisiae	TAF5	TATA binding protein-Associated Factor	798
+S000000405	YBR201W	S. cerevisiae	DER1	Degradation in the Endoplasmic Reticulum	211
+S000000406	YBR202W	S. cerevisiae	MCM7	MiniChromosome Maintenance	845
+S000000411	YBR207W	S. cerevisiae	FTH1	FTR1 Homolog	465
+S000000421	YBR217W	S. cerevisiae	ATG12	AuTophaGy related	186
+S000000432	YBR228W	S. cerevisiae	SLX1	Synthetic Lethal of unknown (X) function	304
+S000000433	YBR229C	S. cerevisiae	ROT2	Reversal Of Tor2 lethality	954
+S000000435	YBR231C	S. cerevisiae	SWC5	SWr Complex	303
+S000000438	YBR234C	S. cerevisiae	ARC40	ARp2/3 Complex subunit	384
+S000000455	YBR251W	S. cerevisiae	MRPS5	Mitochondrial Ribosomal Protein, Small subunit	307
+S000000457	YBR253W	S. cerevisiae	SRB6	Suppressor of RNA polymerase B	121
+S000000458	YBR254C	S. cerevisiae	TRS20	TRapp Subunit	175
+S000000461	YBR257W	S. cerevisiae	POP4	Processing Of Precursor RNAs	279
+S000000462	YBR258C	S. cerevisiae	SHG1	Set1c, Hypothetical G	142
+S000000472	YBR268W	S. cerevisiae	MRPL37	Mitochondrial Ribosomal Protein, Large subunit	105
+S000000483	YBR279W	S. cerevisiae	PAF1	RNA Polymerase II Associated Factor	445
+S000000486	YBR282W	S. cerevisiae	MRPL27	Mitochondrial Ribosomal Protein, Large subunit	146
+S000000493	YBR289W	S. cerevisiae	SNF5	Sucrose NonFermenting	905
+S000000516	YCL010C	S. cerevisiae	SGF29	SaGa associated Factor	259
+S000000521	YCL016C	S. cerevisiae	DCC1	Defective in sister Chromatid Cohesion	380
+S000000522	YCL017C	S. cerevisiae	NFS1	NiFS-like	497
+S000000536	YCL031C	S. cerevisiae	RRP7	Ribosomal RNA Processing	297
+S000000544	YCL039W	S. cerevisiae	GID7	Glucose Induced Degradation deficient	745
+S000000566	YCL061C	S. cerevisiae	MRC1	Mediator of the Replication Checkpoint	1096
+S000000596	YCR003W	S. cerevisiae	MRPL32	Mitochondrial Ribosomal Protein, Large subunit	183
+S000000602	YCR009C	S. cerevisiae	RVS161	Reduced Viability on Starvation	265
+S000000627	YCR031C	S. cerevisiae	RPS14A	Ribosomal Protein of the Small subunit	137
+S000000629	YCR033W	S. cerevisiae	SNT1	SaNT domains	1226
+S000000631	YCR035C	S. cerevisiae	RRP43	Ribosomal RNA Processing	394
+S000000638	YCR042C	S. cerevisiae	TAF2	TATA binding protein-Associated Factor	1407
+S000000642	YCR046C	S. cerevisiae	IMG1	Integrity of Mitochondrial Genome	169
+S000000648	YCR052W	S. cerevisiae	RSC6	Remodel the Structure of Chromatin	483
+S000000653	YCR057C	S. cerevisiae	PWP2	Periodic tryptophan (W) Protein	923
+S000000662	YCR066W	S. cerevisiae	RAD18	RADiation sensitive	487
+S000000667	YCR071C	S. cerevisiae	IMG2	Integrity of Mitochondrial Genome	146
+S000000677	YCR081W	S. cerevisiae	SRB8	Suppressor of RNA polymerase B	1427
+S000000680	YCR084C	S. cerevisiae	TUP1	dTMP-UPtake	713
+S000000682	YCR086W	S. cerevisiae	CSM1	Chromosome Segregation in Meiosis	190
+S000000688	YCR092C	S. cerevisiae	MSH3	MutS Homolog	1018
+S000000689	YCR093W	S. cerevisiae	CDC39	Cell Division Cycle	2108
+S000000728	YEL002C	S. cerevisiae	WBP1	Wheat germ agglutinin-Binding Protein	430
+S000000729	YEL003W	S. cerevisiae	GIM4	Gene Involved in Microtubule biogenesis	111
+S000000744	YEL018W	S. cerevisiae	EAF5	Esa1p-Associated Factor	279
+S000000745	YEL019C	S. cerevisiae	MMS21	Methyl MethaneSulfonate sensitivity	267
+S000000750	YEL024W	S. cerevisiae	RIP1	Rieske Iron-sulfur Protein	215
+S000000752	YEL026W	S. cerevisiae	SNU13	Small NUclear ribonucleoprotein associated	126
+S000000753	YEL027W	S. cerevisiae	VMA3	Vacuolar Membrane Atpase	160
+S000000758	YEL032W	S. cerevisiae	MCM3	MiniChromosome Maintenance	971
+S000000762	YEL036C	S. cerevisiae	ANP1	ANP and osmotic sensitive	500
+S000000763	YEL037C	S. cerevisiae	RAD23	RADiation sensitive	398
+S000000776	YEL050C	S. cerevisiae	RML2	Ribosomal Mitochondrial Large	393
+S000000777	YEL051W	S. cerevisiae	VMA8	Vacuolar Membrane Atpase	256
+S000000780	YEL054C	S. cerevisiae	RPL12A	Ribosomal Protein of the Large subunit	165
+S000000781	YEL055C	S. cerevisiae	POL5	POLymerase	1022
+S000000810	YER008C	S. cerevisiae	SEC3	SECretory	1336
+S000000814	YER012W	S. cerevisiae	PRE1	PRoteinase yscE	198
+S000000823	YER021W	S. cerevisiae	RPN3	Regulatory Particle Non-ATPase	523
+S000000824	YER022W	S. cerevisiae	SRB4	Suppressor of RNA polymerase B	687
+S000000827	YER025W	S. cerevisiae	GCD11	General Control Derepressed	527
+S000000829	YER027C	S. cerevisiae	GAL83	GALactose metabolism	417
+S000000831	YER029C	S. cerevisiae	SMB1	SmB/B' homolog	196
+S000000832	YER030W	S. cerevisiae	CHZ1	Chaperone for Htz1/H2A-H2B dimer	153
+S000000840	YER038C	S. cerevisiae	KRE29	Killer toxin REsistant	464
+S000000852	YER050C	S. cerevisiae	RSM18	Ribosomal Small subunit of Mitochondria	138
+S000000870	YER068W	S. cerevisiae	MOT2	Modulator Of Transcription	587
+S000000871	YER069W	S. cerevisiae	ARG5,6	ARGinine requiring	863
+S000000876	YER074W	S. cerevisiae	RPS24A	Ribosomal Protein of the Small subunit	135
+S000000895	YER093C	S. cerevisiae	TSC11	Temperature-sensitive Suppressors of Csg2 mutants	1430
+S000000896	YER094C	S. cerevisiae	PUP3	PUtative Proteasome subunit	205
+S000000904	YER102W	S. cerevisiae	RPS8B	Ribosomal Protein of the Small subunit	200
+S000000914	YER112W	S. cerevisiae	LSM4	Like SM	187
+S000000918	YER116C	S. cerevisiae	SLX8	Synthetic Lethal of unknown (X) function	274
+S000000919	YER117W	S. cerevisiae	RPL23B	Ribosomal Protein of the Large subunit	137
+S000000924	YER122C	S. cerevisiae	GLO3	GLyOxalase	493
+S000000927	YER125W	S. cerevisiae	RSP5	Reverses Spt- Phenotype	809
+S000000933	YER131W	S. cerevisiae	RPS26B	Ribosomal Protein of the Small subunit	119
+S000000935	YER133W	S. cerevisiae	GLC7	GLyCogen	312
+S000000948	YER146W	S. cerevisiae	LSM5	Like SM	93
+S000000950	YER148W	S. cerevisiae	SPT15	SuPpressor of Ty insertions	240
+S000000953	YER151C	S. cerevisiae	UBP3	UBiquitin-specific Protease	912
+S000000959	YER157W	S. cerevisiae	COG3	Conserved Oligomeric Golgi complex	801
+S000000966	YER164W	S. cerevisiae	CHD1	Chromatin organization modifier, Helicase, and DNA-binding domains	1468
+S000000973	YER171W	S. cerevisiae	RAD3	RADiation sensitive	778
+S000000974	YER172C	S. cerevisiae	BRR2	Bad Response to Refrigeration	2163
+S000000975	YER173W	S. cerevisiae	RAD24	RADiation sensitive	659
+S000000993	YHL001W	S. cerevisiae	RPL14B	Ribosomal Protein of the Large subunit	138
+S000000994	YHL002W	S. cerevisiae	HSE1	Has Symptoms of class E mutants; resembles Hbp, Stam and East	452
+S000000996	YHL004W	S. cerevisiae	MRP4	Mitochondrial Ribosomal Protein	394
+S000000999	YHL007C	S. cerevisiae	STE20	STErile	939
+S000001007	YHL015W	S. cerevisiae	RPS20	Ribosomal Protein of the Small subunit	121
+S000001017	YHL025W	S. cerevisiae	SNF6	Sucrose NonFermenting	332
+S000001022	YHL030W	S. cerevisiae	ECM29	ExtraCellular Mutant	1868
+S000001025	YHL033C	S. cerevisiae	RPL8A	Ribosomal Protein of the Large subunit	256
+S000001046	YHR004C	S. cerevisiae	NEM1	Nuclear Envelope Morphology	446
+S000001052	YHR010W	S. cerevisiae	RPL27A	Ribosomal Protein of the Large subunit	136
+S000001054	YHR012W	S. cerevisiae	VPS29	Vacuolar Protein Sorting	282
+S000001063	YHR021C	S. cerevisiae	RPS27B	Ribosomal Protein of the Small subunit	82
+S000001068	YHR026W	S. cerevisiae	VMA16	Vacuolar Membrane Atpase	213
+S000001069	YHR027C	S. cerevisiae	RPN1	Regulatory Particle Non-ATPase	993
+S000001083	YHR041C	S. cerevisiae	SRB2	Suppressor of RNA polymerase B	210
+S000001093	YHR051W	S. cerevisiae	COX6	Cytochrome c OXidase	148
+S000001098	YHR056C	S. cerevisiae	RSC30	Remodel the Structure of Chromatin	883
+S000001100	YHR058C	S. cerevisiae	MED6	MEDiator complex	295
+S000001104	YHR062C	S. cerevisiae	RPP1	Ribonuclease P Protein	293
+S000001111	YHR069C	S. cerevisiae	RRP4	Ribosomal RNA Processing	359
+S000001117	YHR075C	S. cerevisiae	PPE1	Phosphoprotein Phosphatase methylEsterase	400
+S000001123	YHR081W	S. cerevisiae	LRP1	Like RrP6	184
+S000001126	YHR084W	S. cerevisiae	STE12	STErile	688
+S000001128	YHR086W	S. cerevisiae	NAM8	Nuclear Accommodation of Mitochondria	523
+S000001132	YHR090C	S. cerevisiae	YNG2	Yeast iNG1 homolog	282
+S000001140	YHR098C	S. cerevisiae	SFB3	Sed Five Binding	929
+S000001141	YHR099W	S. cerevisiae	TRA1	similar to human TRRAP	3744
+S000001144	YHR102W	S. cerevisiae	KIC1	Kinase that Interacts with Cdc31p	1080
+S000001160	YHR118C	S. cerevisiae	ORC6	Origin Recognition Complex	435
+S000001161	YHR119W	S. cerevisiae	SET1	SET domain-containing	1080
+S000001183	YHR141C	S. cerevisiae	RPL42B	Ribosomal Protein of the Large subunit	106
+S000001185	YHR143W-A	S. cerevisiae	RPC10	RNA Polymerase C	70
+S000001190	YHR147C	S. cerevisiae	MRPL6	Mitochondrial Ribosomal Protein, Large subunit	214
+S000001199	YHR156C	S. cerevisiae	LIN1	LINk	340
+S000001201	YHR158C	S. cerevisiae	KEL1	KELch repeat	1164
+S000001208	YHR165C	S. cerevisiae	PRP8	Pre-mRNA Processing	2413
+S000001209	YHR166C	S. cerevisiae	CDC23	Cell Division Cycle	626
+S000001230	YHR187W	S. cerevisiae	IKI1	Insensitive to KIller toxin	309
+S000001231	YHR188C	S. cerevisiae	GPI16	GlycosylPhosphatidylInositol anchor biosynthesis	610
+S000001234	YHR191C	S. cerevisiae	CTF8	Chromosome Transmission Fidelity	133
+S000001238	YHR195W	S. cerevisiae	NVJ1	Nucleus-Vacuole Junction	321
+S000001239	YHR196W	S. cerevisiae	UTP9	U Three Protein	575
+S000001243	YHR200W	S. cerevisiae	RPN10	Regulatory Particle Non-ATPase	268
+S000001246	YHR203C	S. cerevisiae	RPS4B	Ribosomal Protein of the Small subunit	261
+S000001279	YIL017C	S. cerevisiae	VID28	Vacuolar Import and Degradation	921
+S000001280	YIL018W	S. cerevisiae	RPL2B	Ribosomal Protein of the Large subunit	254
+S000001283	YIL021W	S. cerevisiae	RPB3	RNA Polymerase B	318
+S000001284	YIL022W	S. cerevisiae	TIM44	Translocase of the Inner Mitochondrial membrane	431
+S000001297	YIL035C	S. cerevisiae	CKA1	Casein Kinase Alpha subunit	372
+S000001300	YIL038C	S. cerevisiae	NOT3	Negative On TATA	836
+S000001314	YIL052C	S. cerevisiae	RPL34B	Ribosomal Protein of the Large subunit	121
+S000001323	YIL061C	S. cerevisiae	SNP1	""	300
+S000001324	YIL062C	S. cerevisiae	ARC15	ARp2/3 Complex subunit	154
+S000001330	YIL068C	S. cerevisiae	SEC6	SECretory	805
+S000001331	YIL069C	S. cerevisiae	RPS24B	Ribosomal Protein of the Small subunit	135
+S000001333	YIL071C	S. cerevisiae	PCI8	Proteasome-COP9 signalosome (CSN)-eIF3	444
+S000001337	YIL075C	S. cerevisiae	RPN2	Regulatory Particle Non-ATPase	945
+S000001338	YIL076W	S. cerevisiae	SEC28	SECretory	296
+S000001346	YIL084C	S. cerevisiae	SDS3	Suppressor of Defective Silencing	327
+S000001355	YIL093C	S. cerevisiae	RSM25	Ribosomal Small subunit of Mitochondria	264
+S000001359	YIL097W	S. cerevisiae	FYV10	Function required for Yeast Viability	516
+S000001366	YIL104C	S. cerevisiae	SHQ1	Small nucleolar RNAs of the box H/ACA family Quantitative accumulation	507
+S000001367	YIL105C	S. cerevisiae	SLM1	Synthetic Lethal with Mss4	686
+S000001368	YIL106W	S. cerevisiae	MOB1	Mps One Binder	314
+S000001371	YIL109C	S. cerevisiae	SEC24	SECretory	926
+S000001374	YIL112W	S. cerevisiae	HOS4	Hda One Similar	1083
+S000001388	YIL126W	S. cerevisiae	STH1	SNF Two Homolog	1359
+S000001395	YIL133C	S. cerevisiae	RPL16A	Ribosomal Protein of the Large subunit	199
+S000001404	YIL142W	S. cerevisiae	CCT2	Chaperonin Containing TCP-1	527
+S000001405	YIL143C	S. cerevisiae	SSL2	Suppressor of Stem-Loop mutation	843
+S000001410	YIL148W	S. cerevisiae	RPL40A	Ribosomal Protein of the Large subunit	128
+S000001415	YIL153W	S. cerevisiae	RRD1	Resistant to Rapamycin Deletion	393
+S000001444	YIR005W	S. cerevisiae	IST3	Increased Sodium Tolerance	148
+S000001445	YIR006C	S. cerevisiae	PAN1	Poly(A)-binding protein-dependent poly(A) riboNuclease	1480
+S000001447	YIR008C	S. cerevisiae	PRI1	DNA PRImase	409
+S000001448	YIR009W	S. cerevisiae	MSL1	MUD Synthetic Lethal	111
+S000001454	YIR015W	S. cerevisiae	RPR2	RNase P Ribonucleoprotein	144
+S000001456	YIR017C	S. cerevisiae	MET28	METhionine	187
+S000001464	YIR025W	S. cerevisiae	MND2	Meiotic Nuclear Divisions	368
+S000001486	YKL003C	S. cerevisiae	MRP17	Mitochondrial Ribosomal Protein	131
+S000001489	YKL006W	S. cerevisiae	RPL14A	Ribosomal Protein of the Large subunit	138
+S000001495	YKL012W	S. cerevisiae	PRP40	Pre-mRNA Processing	583
+S000001496	YKL013C	S. cerevisiae	ARC19	ARp2/3 Complex subunit	171
+S000001497	YKL014C	S. cerevisiae	URB1	Unhealthy Ribosome Biogenesis	1764
+S000001499	YKL016C	S. cerevisiae	ATP7	ATP synthase	174
+S000001501	YKL018W	S. cerevisiae	SWD2	Set1c, WD40 repeat protein	329
+S000001505	YKL022C	S. cerevisiae	CDC16	Cell Division Cycle	840
+S000001525	YKL042W	S. cerevisiae	SPC42	Spindle Pole Component	363
+S000001528	YKL045W	S. cerevisiae	PRI2	DNA PRImase	528
+S000001535	YKL052C	S. cerevisiae	ASK1	Associated with Spindles and Kinetochores	292
+S000001537	YKL054C	S. cerevisiae	DEF1	RNAPII DEgradation Factor	738
+S000001540	YKL057C	S. cerevisiae	NUP120	NUclear Pore	1037
+S000001542	YKL059C	S. cerevisiae	MPE1	Mutant PCF11 Extragenic suppressor	441
+S000001557	YKL074C	S. cerevisiae	MUD2	Mutant U1 Die	527
+S000001563	YKL080W	S. cerevisiae	VMA5	Vacuolar Membrane Atpase	392
+S000001564	YKL081W	S. cerevisiae	TEF4	Translation Elongation Factor	412
+S000001591	YKL108W	S. cerevisiae	SLD2	Synthetically Lethal with Dpb11-1	453
+S000001605	YKL122C	S. cerevisiae	SRP21	Signal Recognition Particle	167
+S000001621	YKL138C	S. cerevisiae	MRPL31	Mitochondrial Ribosomal Protein, Large subunit	131
+S000001627	YKL144C	S. cerevisiae	RPC25	RNA Polymerase C	212
+S000001628	YKL145W	S. cerevisiae	RPT1	Regulatory Particle Triple-A protein, or Regulatory Particle Triphosphatase	467
+S000001638	YKL155C	S. cerevisiae	RSM22	Ribosomal Small subunit of Mitochondria	628
+S000001639	YKL156W	S. cerevisiae	RPS27A	Ribosomal Protein of the Small subunit	82
+S000001650	YKL167C	S. cerevisiae	MRP49	Mitochondrial Ribosomal Protein	137
+S000001653	YKL170W	S. cerevisiae	MRPL38	Mitochondrial Ribosomal Protein, Large subunit	138
+S000001656	YKL173W	S. cerevisiae	SNU114	Small NUclear ribonucleoprotein associated	1008
+S000001663	YKL180W	S. cerevisiae	RPL17A	Ribosomal Protein of the Large subunit	184
+S000001668	YKL185W	S. cerevisiae	ASH1	Asymmetric Synthesis of HO	588
+S000001669	YKL186C	S. cerevisiae	MTR2	Mrna TRansport	184
+S000001671	YKL188C	S. cerevisiae	PXA2	PeroXisomal ABC-transporter	853
+S000001672	YKL189W	S. cerevisiae	HYM1	""	399
+S000001676	YKL193C	S. cerevisiae	SDS22	homolog of S. pombe SDS22	338
+S000001686	YKL203C	S. cerevisiae	TOR2	Target Of Rapamycin	2474
+S000001710	YKR002W	S. cerevisiae	PAP1	Poly(A) Polymerase	568
+S000001714	YKR006C	S. cerevisiae	MRPL13	Mitochondrial Ribosomal Protein, Large subunit	264
+S000001716	YKR008W	S. cerevisiae	RSC4	Remodel the Structure of Chromatin	625
+S000001730	YKR022C	S. cerevisiae	NTR2	NineTeen complex Related protein	322
+S000001733	YKR025W	S. cerevisiae	RPC37	RNA Polymerase C	282
+S000001734	YKR026C	S. cerevisiae	GCN3	General Control Nonderepressible	305
+S000001735	YKR027W	S. cerevisiae	BCH2	Bud7 and Chs6 Homolog	765
+S000001736	YKR028W	S. cerevisiae	SAP190	Sit4 Associated Protein	1033
+S000001737	YKR029C	S. cerevisiae	SET3	SET domain-containing	751
+S000001745	YKR037C	S. cerevisiae	SPC34	Spindle Pole Component	295
+S000001746	YKR038C	S. cerevisiae	KAE1	Kinase-Associated Endopeptidase	386
+S000001765	YKR057W	S. cerevisiae	RPS21A	Ribosomal Protein of the Small subunit	87
+S000001773	YKR065C	S. cerevisiae	PAM17	Presequence translocase-Associated Motor	197
+S000001776	YKR068C	S. cerevisiae	BET3	Blocked Early in Transport	193
+S000001791	YKR083C	S. cerevisiae	DAD2	Duo1 And Dam1 interacting	133
+S000001793	YKR085C	S. cerevisiae	MRPL20	Mitochondrial Ribosomal Protein, Large subunit	195
+S000001802	YKR094C	S. cerevisiae	RPL40B	Ribosomal Protein of the Large subunit	128
+S000001845	YFL049W	S. cerevisiae	SWP82	SWi/snf-associated Protein	623
+S000001853	YFL041W	S. cerevisiae	FET5	FErrous Transport	622
+S000001855	YFL039C	S. cerevisiae	ACT1	ACTin	375
+S000001859	YFL034C-B	S. cerevisiae	MOB2	Mps One Binder	287
+S000001870	YFL024C	S. cerevisiae	EPL1	Enhancer of Polycomb Like	832
+S000001876	YFL018C	S. cerevisiae	LPD1	LiPoamide Dehydrogenase	499
+S000001881	YFL013C	S. cerevisiae	IES1	Ino Eighty Subunit	692
+S000001889	YFL005W	S. cerevisiae	SEC4	SECretory	215
+S000001900	YFR004W	S. cerevisiae	RPN11	Regulatory Particle Non-ATPase	306
+S000001904	YFR008W	S. cerevisiae	FAR7	Factor ARrest	221
+S000001905	YFR009W	S. cerevisiae	GCN20	General Control Nonderepressible	752
+S000001906	YFR010W	S. cerevisiae	UBP6	UBiquitin-specific Protease	499
+S000001927	YFR031C	S. cerevisiae	SMC2	Structural Maintenance of Chromosomes	1170
+S000001929	YFR033C	S. cerevisiae	QCR6	ubiQuinol-cytochrome C oxidoReductase	147
+S000001932	YFR036W	S. cerevisiae	CDC26	Cell Division Cycle	124
+S000001933	YFR037C	S. cerevisiae	RSC8	Remodel the Structure of Chromatin	557
+S000001936	YFR040W	S. cerevisiae	SAP155	Sit4 Associated Protein	1002
+S000001945	YFR049W	S. cerevisiae	YMR31	Yeast Mitochondrial Ribosomal protein	123
+S000001946	YFR050C	S. cerevisiae	PRE4	PRoteinase yscE	266
+S000001947	YFR051C	S. cerevisiae	RET2	RETrieval from ER	546
+S000001948	YFR052W	S. cerevisiae	RPN12	Regulatory Particle Non-ATPase	274
+S000001957	YHR079C-A	S. cerevisiae	SAE3	Sporulation in the Absence of spo Eleven	91
+S000002100	YHR039C-A	S. cerevisiae	VMA10	""	114
+S000002104	YFR031C-A	S. cerevisiae	RPL2A	Ribosomal Protein of the Large subunit	254
+S000002129	YAR002C-A	S. cerevisiae	ERP1	Emp24p/Erv25p Related Protein	219
+S000002135	YER056C-A	S. cerevisiae	RPL34A	Ribosomal Protein of the Large subunit	121
+S000002156	YBR084C-A	S. cerevisiae	RPL19A	Ribosomal Protein of the Large subunit	189
+S000002160	YDL002C	S. cerevisiae	NHP10	Non-Histone Protein	203
+S000002162	YDL004W	S. cerevisiae	ATP16	ATP synthase	160
+S000002163	YDL005C	S. cerevisiae	MED2	MEDiator complex	431
+S000002165	YDL007W	S. cerevisiae	RPT2	Regulatory Particle Triple-A protein, or Regulatory Particle Triphosphatase	437
+S000002166	YDL008W	S. cerevisiae	APC11	Anaphase Promoting Complex	165
+S000002171	YDL013W	S. cerevisiae	SLX5	Synthetic Lethal of unknown [X] function	619
+S000002172	YDL014W	S. cerevisiae	NOP1	NucleOlar Protein	327
+S000002175	YDL017W	S. cerevisiae	CDC7	Cell Division Cycle	507
+S000002187	YDL029W	S. cerevisiae	ARP2	Actin-Related Protein	391
+S000002188	YDL030W	S. cerevisiae	PRP9	Pre-mRNA Processing	530
+S000002201	YDL043C	S. cerevisiae	PRP11	Pre-mRNA Processing	266
+S000002205	YDL047W	S. cerevisiae	SIT4	Suppressor of Initiation of Transcription	311
+S000002219	YDL061C	S. cerevisiae	RPS29B	Ribosomal Protein of the Small subunit	56
+S000002225	YDL067C	S. cerevisiae	COX9	Cytochrome c OXidase	59
+S000002232	YDL074C	S. cerevisiae	BRE1	BREfeldin A sensitivity	700
+S000002233	YDL075W	S. cerevisiae	RPL31A	Ribosomal Protein of the Large subunit	113
+S000002234	YDL076C	S. cerevisiae	RXT3	""	294
+S000002235	YDL077C	S. cerevisiae	VAM6	VAcuolar Morphogenesis	1049
+S000002239	YDL081C	S. cerevisiae	RPP1A	Ribosomal Protein P1 Alpha	106
+S000002240	YDL082W	S. cerevisiae	RPL13A	Ribosomal Protein of the Large subunit	199
+S000002241	YDL083C	S. cerevisiae	RPS16B	Ribosomal Protein of the Small subunit	143
+S000002245	YDL087C	S. cerevisiae	LUC7	Lethal Unless Cap-binding complex is produced	261
+S000002250	YDL092W	S. cerevisiae	SRP14	Signal Recognition Particle	146
+S000002251	YDL093W	S. cerevisiae	PMT5	Protein O-MannosylTransferase	743
+S000002253	YDL095W	S. cerevisiae	PMT1	Protein O-MannosylTransferase	817
+S000002255	YDL097C	S. cerevisiae	RPN6	Regulatory Particle Non-ATPase	434
+S000002256	YDL098C	S. cerevisiae	SNU23	Small NUclear ribonucleoprotein associated	194
+S000002257	YDL099W	S. cerevisiae	BUG1	Binder of USO1 and GRH1	341
+S000002263	YDL105W	S. cerevisiae	NSE4	Non-SMC Element	402
+S000002266	YDL108W	S. cerevisiae	KIN28	protein KINase	306
+S000002269	YDL111C	S. cerevisiae	RRP42	Ribosomal RNA Processing	265
+S000002271	YDL113C	S. cerevisiae	ATG20	AuTophaGy related	640
+S000002274	YDL116W	S. cerevisiae	NUP84	NUclear Pore	726
+S000002285	YDL127W	S. cerevisiae	PCL2	Pho85 CycLin	308
+S000002288	YDL130W	S. cerevisiae	RPP1B	Ribosomal Protein P1 Beta	106
+S000002292	YDL134C	S. cerevisiae	PPH21	Protein PHosphatase	369
+S000002293	YDL133C-A	S. cerevisiae	RPL41B	Ribosomal Protein of the Large subunit	25
+S000002295	YDL136W	S. cerevisiae	RPL35B	Ribosomal Protein of the Large subunit	120
+S000002299	YDL140C	S. cerevisiae	RPO21	RNA POlymerase	1733
+S000002302	YDL143W	S. cerevisiae	CCT4	Chaperonin Containing TCP-1	528
+S000002304	YDL145C	S. cerevisiae	COP1	COat Protein	1201
+S000002306	YDL147W	S. cerevisiae	RPN5	Regulatory Particle Non-ATPase	445
+S000002307	YDL148C	S. cerevisiae	NOP14	NucleOlar Protein	810
+S000002309	YDL150W	S. cerevisiae	RPC53	RNA Polymerase C	422
+S000002314	YDL155W	S. cerevisiae	CLB3	CycLin B	427
+S000002324	YDL165W	S. cerevisiae	CDC36	Cell Division Cycle	191
+S000002335	YDL176W	S. cerevisiae	""	""	708
+S000002340	YDL181W	S. cerevisiae	INH1	INHibitor (of F1F0-ATPase)	85
+S000002343	YDL184C	S. cerevisiae	RPL41A	Ribosomal Protein of the Large subunit	25
+S000002344	YDL185W	S. cerevisiae	VMA1	Vacuolar Membrane Atpase	1071
+S000002350	YDL191W	S. cerevisiae	RPL35A	Ribosomal Protein of the Large subunit	120
+S000002351	YDL192W	S. cerevisiae	ARF1	ADP-Ribosylation Factor	181
+S000002354	YDL195W	S. cerevisiae	SEC31	SECretory	1273
+S000002361	YDL202W	S. cerevisiae	MRPL11	Mitochondrial Ribosomal Protein, Large subunit	249
+S000002375	YDL216C	S. cerevisiae	RRI1	Regulator of Rub1 specific Isopeptidase	440
+S000002391	YDL232W	S. cerevisiae	OST4	OligoSaccharylTransferase	36
+S000002416	YDR009W	S. cerevisiae	GAL3	GALactose metabolism	520
+S000002419	YDR012W	S. cerevisiae	RPL4B	Ribosomal Protein of the Large subunit	362
+S000002423	YDR016C	S. cerevisiae	DAD1	Duo1 And Dam1 interacting	94
+S000002426	YDR019C	S. cerevisiae	GCV1	GlyCine cleaVage	400
+S000002432	YDR025W	S. cerevisiae	RPS11A	Ribosomal Protein of the Small subunit	156
+S000002435	YDR028C	S. cerevisiae	REG1	REsistance to Glucose repression	1014
+S000002448	YDR041W	S. cerevisiae	RSM10	Ribosomal Small subunit of Mitochondria	203
+S000002452	YDR045C	S. cerevisiae	RPC11	RNA Polymerase C	110
+S000002459	YDR052C	S. cerevisiae	DBF4	DumbBell Former	704
+S000002464	YDR057W	S. cerevisiae	YOS9	Yeast OS-9 homolog	542
+S000002467	YDR060W	S. cerevisiae	MAK21	MAintenance of Killer	1025
+S000002471	YDR064W	S. cerevisiae	RPS13	Ribosomal Protein of the Small subunit	151
+S000002480	YDR073W	S. cerevisiae	SNF11	Sucrose NonFermenting	169
+S000002481	YDR074W	S. cerevisiae	TPS2	Trehalose-6-Phosphate Synthase/phosphatase	896
+S000002487	YDR080W	S. cerevisiae	VPS41	Vacuolar Protein Sorting	992
+S000002504	YDR097C	S. cerevisiae	MSH6	MutS Homolog	1242
+S000002515	YDR108W	S. cerevisiae	TRS85	TRapp Subunit	698
+S000002520	YDR113C	S. cerevisiae	PDS1	Precocious Dissociation of Sisters	373
+S000002522	YDR115W	S. cerevisiae	MRX14	Mitochondrial oRganization of gene eXpression (MIOREX)	105
+S000002523	YDR116C	S. cerevisiae	MRPL1	Mitochondrial Ribosomal Protein, Large subunit	285
+S000002525	YDR118W	S. cerevisiae	APC4	Anaphase Promoting Complex	652
+S000002530	YDR123C	S. cerevisiae	INO2	INOsitol requiring	304
+S000002545	YDR138W	S. cerevisiae	HPR1	HyPerRecombination	752
+S000002548	YDR141C	S. cerevisiae	DOP1	homolog of A. nidulans DOPey	1698
+S000002552	YDR145W	S. cerevisiae	TAF12	TATA binding protein-Associated Factor	539
+S000002562	YDR155C	S. cerevisiae	CPR1	Cyclosporin A-sensitive Proline Rotamase	162
+S000002563	YDR156W	S. cerevisiae	RPA14	RNA Polymerase A	137
+S000002566	YDR159W	S. cerevisiae	SAC3	Suppressor of ACtin	1301
+S000002573	YDR166C	S. cerevisiae	SEC5	SECretory	971
+S000002574	YDR167W	S. cerevisiae	TAF10	TATA binding protein-Associated Factor	206
+S000002582	YDR175C	S. cerevisiae	RSM24	Ribosomal Small subunit of Mitochondria	319
+S000002583	YDR176W	S. cerevisiae	NGG1	""	702
+S000002586	YDR179C	S. cerevisiae	CSN9	Cop9 SigNalosome subunit	162
+S000002596	YDR188W	S. cerevisiae	CCT6	Chaperonin Containing TCP-1	546
+S000002598	YDR190C	S. cerevisiae	RVB1	RuVB-like	463
+S000002603	YDR195W	S. cerevisiae	REF2	RNA End Formation	533
+S000002608	YDR200C	S. cerevisiae	VPS64	Vacuolar Protein Sorting	604
+S000002609	YDR201W	S. cerevisiae	SPC19	Spindle Pole Component	165
+S000002615	YDR207C	S. cerevisiae	UME6	Unscheduled Meiotic gene Expression	836
+S000002619	YDR211W	S. cerevisiae	GCD6	General Control Derepressed	712
+S000002620	YDR212W	S. cerevisiae	TCP1	Tailless Complex Polypeptide	559
+S000002629	YDR221W	S. cerevisiae	GTB1	Glucosidase Two Beta-subunit	702
+S000002632	YDR224C	S. cerevisiae	HTB1	Histone h Two B	131
+S000002633	YDR225W	S. cerevisiae	HTA1	Histone h Two A	132
+S000002636	YDR228C	S. cerevisiae	PCF11	Protein 1 of Cleavage and polyadenylation Factor I	626
+S000002643	YDR235W	S. cerevisiae	PRP42	Pre-mRNA Processing	544
+S000002645	YDR237W	S. cerevisiae	MRPL7	Mitochondrial Ribosomal Protein, Large subunit	292
+S000002646	YDR238C	S. cerevisiae	SEC26	SECretory	973
+S000002648	YDR240C	S. cerevisiae	SNU56	Small NUclear ribonucleoprotein associated	492
+S000002651	YDR243C	S. cerevisiae	PRP28	Pre-mRNA Processing	588
+S000002653	YDR245W	S. cerevisiae	MNN10	MaNNosyltransferase	393
+S000002654	YDR246W	S. cerevisiae	TRS23	TRapp Subunit	219
+S000002661	YDR253C	S. cerevisiae	MET32	METhionine requiring	191
+S000002663	YDR255C	S. cerevisiae	RMD5	Required for Meiotic nuclear Division	421
+S000002668	YDR260C	S. cerevisiae	SWM1	Spore Wall Maturation	170
+S000002688	YDR280W	S. cerevisiae	RRP45	Ribosomal RNA Processing	305
+S000002696	YDR288W	S. cerevisiae	NSE3	Non SMC Element	303
+S000002706	YDR298C	S. cerevisiae	ATP5	ATP synthase	212
+S000002709	YDR301W	S. cerevisiae	CFT1	Cleavage Factor Two	1357
+S000002711	YDR303C	S. cerevisiae	RSC3	Remodel the Structure of Chromatin	885
+S000002716	YDR308C	S. cerevisiae	SRB7	Suppressor of RNA polymerase B	140
+S000002718	YDR310C	S. cerevisiae	SUM1	SUppresor of Mar1-1	1062
+S000002719	YDR311W	S. cerevisiae	TFB1	Transcription Factor B	642
+S000002730	YDR322W	S. cerevisiae	MRPL35	Mitochondrial Ribosomal Protein, Large subunit	367
+S000002732	YDR324C	S. cerevisiae	UTP4	U Three Protein	776
+S000002733	YDR325W	S. cerevisiae	YCG1	Yeast Cap G	1035
+S000002739	YDR331W	S. cerevisiae	GPI8	GlycosylPhosphatidylInositol anchor biosynthesis	411
+S000002742	YDR334W	S. cerevisiae	SWR1	SWi2/snf2-Related	1514
+S000002745	YDR337W	S. cerevisiae	MRPS28	Mitochondrial Ribosomal Protein, Small subunit	286
+S000002755	YDR347W	S. cerevisiae	MRP1	Mitochondrial Ribosomal Protein	321
+S000002764	YDR356W	S. cerevisiae	SPC110	Spindle Pole Component	944
+S000002767	YDR359C	S. cerevisiae	EAF1	Esa1p-Associated Factor	982
+S000002770	YDR362C	S. cerevisiae	TFC6	Transcription Factor C	672
+S000002785	YDR377W	S. cerevisiae	ATP17	ATP synthase	101
+S000002786	YDR378C	S. cerevisiae	LSM6	Like SM	86
+S000002790	YDR382W	S. cerevisiae	RPP2B	Ribosomal Protein P2 Beta	110
+S000002796	YDR388W	S. cerevisiae	RVS167	Reduced Viability on Starvation	482
+S000002798	YDR390C	S. cerevisiae	UBA2	UBiquitin Activating	636
+S000002800	YDR392W	S. cerevisiae	SPT3	SuPpressor of Ty's	337
+S000002802	YDR394W	S. cerevisiae	RPT3	Regulatory Particle Triple-A protein, or Regulatory Particle Triphosphatase	428
+S000002812	YDR404C	S. cerevisiae	RPB7	RNA Polymerase B	171
+S000002813	YDR405W	S. cerevisiae	MRP20	Mitochondrial Ribosomal Protein	263
+S000002815	YDR407C	S. cerevisiae	TRS120	TRapp Subunit	1289
+S000002824	YDR416W	S. cerevisiae	SYF1	SYnthetic lethal with cdcForty	859
+S000002826	YDR418W	S. cerevisiae	RPL12B	Ribosomal Protein of the Large subunit	165
+S000002830	YDR422C	S. cerevisiae	SIP1	SNF1-Interacting Protein	815
+S000002833	YDR425W	S. cerevisiae	SNX41	Sorting NeXin	625
+S000002835	YDR427W	S. cerevisiae	RPN9	Regulatory Particle Non-ATPase	393
+S000002837	YDR429C	S. cerevisiae	TIF35	Translation Initiation Factor	274
+S000002842	YDR434W	S. cerevisiae	GPI17	GlycosylPhosphatidylInositol anchor biosynthesis	534
+S000002847	YDR439W	S. cerevisiae	LRS4	Loss of RDNA Silencing	347
+S000002851	YDR443C	S. cerevisiae	SSN2	Suppressor of SNf1	1420
+S000002855	YDR447C	S. cerevisiae	RPS17B	Ribosomal Protein of the Small subunit	136
+S000002856	YDR448W	S. cerevisiae	ADA2	transcriptional ADAptor	434
+S000002857	YDR449C	S. cerevisiae	UTP6	U Three Protein	440
+S000002858	YDR450W	S. cerevisiae	RPS18A	Ribosomal Protein of the Small subunit	146
+S000002868	YDR460W	S. cerevisiae	TFB3	Transcription Factor B subunit 3	321
+S000002870	YDR462W	S. cerevisiae	MRPL28	Mitochondrial Ribosomal Protein, Large subunit	147
+S000002877	YDR469W	S. cerevisiae	SDC1	Set1c, homolog of Dpy30 from C.elegans	175
+S000002878	YDR470C	S. cerevisiae	UGO1	UGO (Japanese for fusion)	502
+S000002879	YDR471W	S. cerevisiae	RPL27B	Ribosomal Protein of the Large subunit	136
+S000002880	YDR472W	S. cerevisiae	TRS31	TRapp Subunit	283
+S000002881	YDR473C	S. cerevisiae	PRP3	Pre-mRNA Processing	469
+S000002885	YDR477W	S. cerevisiae	SNF1	Sucrose NonFermenting	633
+S000002886	YDR478W	S. cerevisiae	SNM1	Suppressor of Nuclear Mitochondrial endoribonuclease	198
+S000002888	YDR480W	S. cerevisiae	DIG2	Down-regulator of Invasive Growth	323
+S000002893	YDR485C	S. cerevisiae	VPS72	Vacuolar Protein Sorting	795
+S000002903	YDR495C	S. cerevisiae	VPS3	Vacuolar Protein Sorting	1011
+S000002906	YDR498C	S. cerevisiae	SEC20	SECretory	383
+S000002908	YDR500C	S. cerevisiae	RPL37B	Ribosomal Protein of the Large subunit	88
+S000002925	YDR517W	S. cerevisiae	GRH1	GRasp65 (Golgi reassembly stacking protein of 65kD) Homolog	372
+S000002937	YDR529C	S. cerevisiae	QCR7	ubiQuinol-cytochrome C oxidoReductase	127
+S000002965	YFL017W-A	S. cerevisiae	SMX2	""	77
+S000002971	YGL003C	S. cerevisiae	CDH1	CDC20 Homolog	566
+S000002973	YGL005C	S. cerevisiae	COG7	Conserved Oligomeric Golgi complex	279
+S000002979	YGL011C	S. cerevisiae	SCL1	Suppressor of Crl3 ts Lethality	252
+S000002987	YGL019W	S. cerevisiae	CKB1	Casein Kinase Beta subunit	278
+S000002990	YGL022W	S. cerevisiae	STT3	STaurosporine and Temperature sensitive	718
+S000002993	YGL025C	S. cerevisiae	PGD1	PolyGlutamine Domain	397
+S000002998	YGL030W	S. cerevisiae	RPL30	Ribosomal Protein of the Large subunit	105
+S000002999	YGL031C	S. cerevisiae	RPL24A	Ribosomal Protein of the Large subunit	155
+S000003001	YGL033W	S. cerevisiae	HOP2	HOmologous Pairing	214
+S000003012	YGL044C	S. cerevisiae	RNA15	poly(A) mRNA metabolism	296
+S000003016	YGL048C	S. cerevisiae	RPT6	Regulatory Particle Triple-A protein, or Regulatory Particle Triphosphatase	405
+S000003019	YGL051W	S. cerevisiae	MST27	Multicopy suppressor of Sec Twenty one	234
+S000003026	YGL058W	S. cerevisiae	RAD6	RADiation sensitive	172
+S000003029	YGL061C	S. cerevisiae	DUO1	Death Upon Overproduction	247
+S000003034	YGL066W	S. cerevisiae	SGF73	SaGa associated Factor, 73 kDa	657
+S000003036	YGL068W	S. cerevisiae	MNP1	Mitochondrial-Nucleoid Protein	194
+S000003038	YGL070C	S. cerevisiae	RPB9	RNA Polymerase B	122
+S000003043	YGL075C	S. cerevisiae	MPS2	MonoPolar Spindle	387
+S000003044	YGL076C	S. cerevisiae	RPL7A	Ribosomal Protein of the Large subunit	244
+S000003054	YGL086W	S. cerevisiae	MAD1	Mitotic Arrest-Deficient	749
+S000003060	YGL092W	S. cerevisiae	NUP145	NUclear Pore	1317
+S000003066	YGL098W	S. cerevisiae	USE1	Unconventional SNARE in the ER	245
+S000003068	YGL100W	S. cerevisiae	SEH1	SEc13 Homolog	349
+S000003071	YGL103W	S. cerevisiae	RPL28	Ribosomal Protein of the Large subunit	149
+S000003080	YGL112C	S. cerevisiae	TAF6	TATA binding protein-Associated Factor	516
+S000003083	YGL115W	S. cerevisiae	SNF4	Sucrose NonFermenting	322
+S000003084	YGL116W	S. cerevisiae	CDC20	Cell Division Cycle	610
+S000003088	YGL120C	S. cerevisiae	PRP43	Pre-mRNA Processing	767
+S000003091	YGL123W	S. cerevisiae	RPS2	Ribosomal Protein of the Small subunit	254
+S000003092	YGL124C	S. cerevisiae	MON1	MONensin sensitivity	644
+S000003095	YGL127C	S. cerevisiae	SOH1	Suppressor Of Hpr1	127
+S000003097	YGL129C	S. cerevisiae	RSM23	Ribosomal Small subunit of Mitochondria	450
+S000003102	YGL134W	S. cerevisiae	PCL10	Pho85 CycLin	433
+S000003103	YGL135W	S. cerevisiae	RPL1B	Ribosomal Protein of the Large subunit	217
+S000003105	YGL137W	S. cerevisiae	SEC27	SECretory	889
+S000003113	YGL145W	S. cerevisiae	TIP20	SEC20 (Twenty) Interacting Protein	701
+S000003115	YGL147C	S. cerevisiae	RPL9A	Ribosomal Protein of the Large subunit	191
+S000003118	YGL150C	S. cerevisiae	INO80	INOsitol requiring	1489
+S000003119	YGL151W	S. cerevisiae	NUT1	Negative regulation of URS Two	1132
+S000003151	YGL183C	S. cerevisiae	MND1	Meiotic Nuclear Divisions	219
+S000003155	YGL187C	S. cerevisiae	COX4	Cytochrome c OXidase	155
+S000003157	YGL189C	S. cerevisiae	RPS26A	Ribosomal Protein of the Small subunit	119
+S000003159	YGL191W	S. cerevisiae	COX13	Cytochrome c OXidase	129
+S000003162	YGL194C	S. cerevisiae	HOS2	Hda One Similar	452
+S000003163	YGL195W	S. cerevisiae	GCN1	General Control Nonderepressible	2672
+S000003168	YGL200C	S. cerevisiae	EMP24	EndoMembrane Protein	203
+S000003169	YGL201C	S. cerevisiae	MCM6	MiniChromosome Maintenance	1017
+S000003176	YGL208W	S. cerevisiae	SIP2	SNF1-Interacting Protein	415
+S000003180	YGL212W	S. cerevisiae	VAM7	VAcuolar Morphogenesis	316
+S000003191	YGL223C	S. cerevisiae	COG1	Conserved Oligomeric Golgi complex	417
+S000003194	YGL226C-A	S. cerevisiae	OST5	OligoSaccharylTransferase	86
+S000003196	YGL227W	S. cerevisiae	VID30	Vacuolar Import and Degradation	958
+S000003202	YGL233W	S. cerevisiae	SEC15	SECretory	910
+S000003205	YGL236C	S. cerevisiae	MTO1	Mitochondrial Translation Optimization	669
+S000003209	YGL240W	S. cerevisiae	DOC1	Destruction Of Cyclin B	250
+S000003213	YGL244W	S. cerevisiae	RTF1	Restores TBP Function	558
+S000003221	YGL252C	S. cerevisiae	RTG2	ReTroGrade regulation	588
+S000003234	YGR002C	S. cerevisiae	SWC4	SWr Complex	476
+S000003238	YGR006W	S. cerevisiae	PRP18	Pre-mRNA Processing	251
+S000003241	YGR009C	S. cerevisiae	SEC9	SECretory	651
+S000003245	YGR013W	S. cerevisiae	SNU71	Small NUclear ribonucleoprotein associated	620
+S000003252	YGR020C	S. cerevisiae	VMA7	Vacuolar Membrane Atpase	118
+S000003259	YGR027C	S. cerevisiae	RPS25A	Ribosomal Protein of the Small subunit	108
+S000003262	YGR030C	S. cerevisiae	POP6	Processing Of Precursor RNAs	158
+S000003264	YGR032W	S. cerevisiae	GSC2	Glucan Synthase of Cerevisiae	1895
+S000003265	YGR033C	S. cerevisiae	TIM21	Translocase of the Inner Mitochondrial membrane	239
+S000003266	YGR034W	S. cerevisiae	RPL26B	Ribosomal Protein of the Large subunit	127
+S000003279	YGR047C	S. cerevisiae	TFC4	Transcription Factor class C	1025
+S000003288	YGR056W	S. cerevisiae	RSC1	Remodel the Structure of Chromatin	928
+S000003306	YGR074W	S. cerevisiae	SMD1	snRNA Sm binding site protein D1	146
+S000003307	YGR075C	S. cerevisiae	PRP38	Pre-mRNA Processing	242
+S000003308	YGR076C	S. cerevisiae	MRPL25	Mitochondrial Ribosomal Protein, Large subunit	157
+S000003310	YGR078C	S. cerevisiae	PAC10	Perish in the Absence of Cin8p	199
+S000003314	YGR082W	S. cerevisiae	TOM20	Translocase of the Outer Mitochondrial membrane	183
+S000003315	YGR083C	S. cerevisiae	GCD2	General Control Derepressed	651
+S000003316	YGR084C	S. cerevisiae	MRP13	Mitochondrial Ribosomal Protein	339
+S000003317	YGR085C	S. cerevisiae	RPL11B	Ribosomal Protein of the Large subunit	174
+S000003322	YGR090W	S. cerevisiae	UTP22	U Three Protein	1237
+S000003323	YGR091W	S. cerevisiae	PRP31	Pre-mRNA Processing	494
+S000003324	YGR092W	S. cerevisiae	DBF2	DumbBell Former	572
+S000003327	YGR095C	S. cerevisiae	RRP46	Ribosomal RNA Processing	223
+S000003330	YGR098C	S. cerevisiae	ESP1	Extra Spindle Pole bodies	1630
+S000003336	YGR104C	S. cerevisiae	SRB5	Suppressor of RNA polymerase B	307
+S000003340	YGR108W	S. cerevisiae	CLB1	CycLin B	471
+S000003341	YGR109C	S. cerevisiae	CLB6	CycLin B	380
+S000003345	YGR113W	S. cerevisiae	DAM1	Duo1 And Mps1 interacting	343
+S000003350	YGR118W	S. cerevisiae	RPS23A	Ribosomal Protein of the Small subunit	145
+S000003352	YGR120C	S. cerevisiae	COG2	Conserved Oligomeric Golgi complex	262
+S000003360	YGR128C	S. cerevisiae	UTP8	U Three Protein	713
+S000003361	YGR129W	S. cerevisiae	SYF2	SYnthetic lethal with cdc40 (Forty)	215
+S000003366	YGR134W	S. cerevisiae	CAF130	CCR4 Associated Factor	1122
+S000003367	YGR135W	S. cerevisiae	PRE9	PRoteinase yscE	258
+S000003380	YGR148C	S. cerevisiae	RPL24B	Ribosomal Protein of the Large subunit	155
+S000003388	YGR156W	S. cerevisiae	PTI1	PTa1p Interacting protein	425
+S000003390	YGR158C	S. cerevisiae	MTR3	MRNA TRansport	250
+S000003397	YGR165W	S. cerevisiae	MRPS35	Mitochondrial Ribosomal Protein, Small subunit	345
+S000003398	YGR166W	S. cerevisiae	TRS65	TRapp Subunit	560
+S000003410	YGR178C	S. cerevisiae	PBP1	Pab1p-Binding Protein	722
+S000003413	YGR181W	S. cerevisiae	TIM13	Translocase of the Inner Mitochondrial membrane	105
+S000003415	YGR183C	S. cerevisiae	QCR9	ubiQuinol-cytochrome C oxidoReductase	66
+S000003420	YGR188C	S. cerevisiae	BUB1	Budding Uninhibited by Benzimidazole	1021
+S000003427	YGR195W	S. cerevisiae	SKI6	SuperKIller	246
+S000003432	YGR200C	S. cerevisiae	ELP2	ELongator Protein	788
+S000003446	YGR214W	S. cerevisiae	RPS0A	Ribosomal Protein of the Small subunit	252
+S000003447	YGR215W	S. cerevisiae	RSM27	Ribosomal Small subunit of Mitochondria	110
+S000003452	YGR220C	S. cerevisiae	MRPL9	Mitochondrial Ribosomal Protein, Large subunit	269
+S000003464	YGR232W	S. cerevisiae	NAS6	Non-ATPase Subunit 6	228
+S000003470	YGR238C	S. cerevisiae	KEL2	KELch repeat	882
+S000003484	YGR252W	S. cerevisiae	GCN5	General Control Nonderepressible	439
+S000003485	YGR253C	S. cerevisiae	PUP2	PUtative Proteasome subunit	260
+S000003490	YGR258C	S. cerevisiae	RAD2	RADiation sensitivity	1031
+S000003494	YGR262C	S. cerevisiae	BUD32	BUD site selection	261
+S000003506	YGR274C	S. cerevisiae	TAF1	TATA binding protein-Associated Factor	1066
+S000003507	YGR275W	S. cerevisiae	RTT102	Regulator of Ty1 Transposition	157
+S000003529	YHR001W-A	S. cerevisiae	QCR10	ubiQuinol-cytochrome C oxidoReductase	77
+S000003538	YJL001W	S. cerevisiae	PRE3	PRoteinase yscE	215
+S000003539	YJL002C	S. cerevisiae	OST1	OligoSaccharylTransferase	476
+S000003545	YJL008C	S. cerevisiae	CCT8	Chaperonin Containing TCP-1	568
+S000003548	YJL011C	S. cerevisiae	RPC17	RNA Polymerase C	161
+S000003551	YJL014W	S. cerevisiae	CCT3	Chaperonin Containing TCP-1	534
+S000003567	YJL030W	S. cerevisiae	MAD2	Mitotic Arrest-Deficient	196
+S000003573	YJL036W	S. cerevisiae	SNX4	Sorting NeXin	423
+S000003577	YJL041W	S. cerevisiae	NSP1	NucleoSkeletal-like Protein	823
+S000003589	YJL053W	S. cerevisiae	PEP8	carboxyPEPtidase Y-deficient	379
+S000003594	YJL058C	S. cerevisiae	BIT61	Binding partner of Tor2p	543
+S000003597	YJL061W	S. cerevisiae	NUP82	NUclear Pore	713
+S000003599	YJL063C	S. cerevisiae	MRPL8	Mitochondrial Ribosomal Protein, Large subunit	238
+S000003605	YJL069C	S. cerevisiae	UTP18	U Three Protein	594
+S000003607	YJL071W	S. cerevisiae	ARG2	ARGinine requiring	574
+S000003617	YJL081C	S. cerevisiae	ARP4	Actin-Related Protein	489
+S000003621	YJL085W	S. cerevisiae	EXO70	EXOcyst	623
+S000003624	YJL088W	S. cerevisiae	ARG3	ARGinine requiring	338
+S000003626	YJL090C	S. cerevisiae	DPB11	DNA Polymerase B (II)	764
+S000003632	YJL096W	S. cerevisiae	MRPL49	Mitochondrial Ribosomal Protein, Large subunit	161
+S000003634	YJL098W	S. cerevisiae	SAP185	Sit4 Associated Protein	1058
+S000003635	YJL099W	S. cerevisiae	CHS6	CHitin Synthase-related	746
+S000003640	YJL104W	S. cerevisiae	PAM16	Presequence translocase-Associated Motor	149
+S000003645	YJL109C	S. cerevisiae	UTP10	U Three Protein	1769
+S000003647	YJL111W	S. cerevisiae	CCT7	Chaperonin Containing TCP-1	550
+S000003651	YJL115W	S. cerevisiae	ASF1	Anti-Silencing Function	279
+S000003661	YJL125C	S. cerevisiae	GCD14	General Control Nonderepressible	383
+S000003672	YJL136C	S. cerevisiae	RPS21B	Ribosomal Protein of the Small subunit	87
+S000003676	YJL140W	S. cerevisiae	RPB4	RNA Polymerase B	221
+S000003679	YJL143W	S. cerevisiae	TIM17	Translocase of the Inner Mitochondrial membrane	158
+S000003684	YJL148W	S. cerevisiae	RPA34	RNA Polymerase A	233
+S000003690	YJL154C	S. cerevisiae	VPS35	Vacuolar Protein Sorting	944
+S000003693	YJL157C	S. cerevisiae	FAR1	Factor ARrest	830
+S000003702	YJL166W	S. cerevisiae	QCR8	ubiQuinol-cytochrome C oxidoReductase	94
+S000003712	YJL176C	S. cerevisiae	SWI3	SWItching deficient	825
+S000003713	YJL177W	S. cerevisiae	RPL17B	Ribosomal Protein of the Large subunit	184
+S000003715	YJL179W	S. cerevisiae	PFD1	PreFolDin	109
+S000003719	YJL183W	S. cerevisiae	MNN11	MaNNosyltransferase	422
+S000003720	YJL184W	S. cerevisiae	GON7	""	123
+S000003725	YJL189W	S. cerevisiae	RPL39	Ribosomal Protein of the Large subunit	51
+S000003726	YJL190C	S. cerevisiae	RPS22A	Ribosomal Protein of the Small subunit	130
+S000003727	YJL191W	S. cerevisiae	RPS14B	Ribosomal Protein of the Small subunit	138
+S000003739	YJL203W	S. cerevisiae	PRP21	Pre-mRNA Processing	280
+S000003745	YJL209W	S. cerevisiae	CBP1	Cytochrome B mRNA Processing	654
+S000003767	YJR007W	S. cerevisiae	SUI2	SUppressor of Initiator codon	304
+S000003783	YJR022W	S. cerevisiae	LSM8	Like SM	109
+S000003796	YJR035W	S. cerevisiae	RAD26	RADiation sensitive	1085
+S000003802	YJR041C	S. cerevisiae	URB2	Unhealthy Ribosome Biogenesis	1174
+S000003803	YJR042W	S. cerevisiae	NUP85	NUclear Pore	744
+S000003806	YJR045C	S. cerevisiae	SSC1	Stress-Seventy subfamily C	654
+S000003811	YJR050W	S. cerevisiae	ISY1	Interactor of SYf1p	235
+S000003814	YJR053W	S. cerevisiae	BFA1	Byr-Four-Alike	574
+S000003821	YJR060W	S. cerevisiae	CBF1	Centromere Binding Factor	351
+S000003824	YJR063W	S. cerevisiae	RPA12	RNA Polymerase A	125
+S000003825	YJR064W	S. cerevisiae	CCT5	Chaperonin Containing TCP-1	562
+S000003826	YJR065C	S. cerevisiae	ARP3	Actin-Related Protein	449
+S000003829	YJR068W	S. cerevisiae	RFC2	Replication Factor C	353
+S000003836	YJR075W	S. cerevisiae	HOC1	Homologous to OCh1	396
+S000003842	YJR082C	S. cerevisiae	EAF6	Esa1p-Associated Factor	113
+S000003844	YJR084W	S. cerevisiae	""	""	423
+S000003846	YJR086W	S. cerevisiae	STE18	STErile	110
+S000003849	YJR089W	S. cerevisiae	BIR1	Baculoviral IAP Repeat-containing protein	954
+S000003853	YJR093C	S. cerevisiae	FIP1	Factor Interacting with Poly(A) polymerase	327
+S000003854	YJR094C	S. cerevisiae	IME1	Inducer of MEiosis	360
+S000003855	YJR094W-A	S. cerevisiae	RPL43B	Ribosomal Protein of the Large subunit	92
+S000003862	YJR101W	S. cerevisiae	RSM26	Ribosomal Small subunit of Mitochondria	266
+S000003865	YJR104C	S. cerevisiae	SOD1	SuperOxide Dismutase	154
+S000003874	YJR113C	S. cerevisiae	RSM7	Ribosomal Small subunit of Mitochondria	247
+S000003882	YJR121W	S. cerevisiae	ATP2	ATP synthase	511
+S000003884	YJR123W	S. cerevisiae	RPS5	Ribosomal Protein of the Small subunit	225
+S000003906	YJR145C	S. cerevisiae	RPS4A	Ribosomal Protein of the Small subunit	261
+S000003925	YLL002W	S. cerevisiae	RTT109	Regulator of Ty1 Transposition	436
+S000003927	YLL004W	S. cerevisiae	ORC3	Origin Recognition Complex	616
+S000003929	YLL006W	S. cerevisiae	MMM1	Maintenance of Mitochondrial Morphology	426
+S000003933	YLL010C	S. cerevisiae	PSR1	Plasma membrane Sodium Response	427
+S000003959	YLL036C	S. cerevisiae	PRP19	Pre-RNA Processing	503
+S000003968	YLL045C	S. cerevisiae	RPL8B	Ribosomal Protein of the Large subunit	256
+S000003992	YLR002C	S. cerevisiae	NOC3	NucleOlar Complex associated	663
+S000003995	YLR005W	S. cerevisiae	SSL1	Suppressor of Stem-Loop mutation	461
+S000003997	YLR007W	S. cerevisiae	NSE1	Non-SMC Element	336
+S000003998	YLR008C	S. cerevisiae	PAM18	Presequence translocase-Associated Motor	168
+S000004005	YLR015W	S. cerevisiae	BRE2	BREfeldin A sensitivity	505
+S000004019	YLR029C	S. cerevisiae	RPL15A	Ribosomal Protein of the Large subunit	204
+S000004023	YLR033W	S. cerevisiae	RSC58	Remodel the Structure of Chromatin	502
+S000004025	YLR035C	S. cerevisiae	MLH2	MutL Homolog	695
+S000004028	YLR038C	S. cerevisiae	COX12	Cytochrome c OXidase	83
+S000004033	YLR043C	S. cerevisiae	TRX1	ThioRedoXin	103
+S000004038	YLR048W	S. cerevisiae	RPS0B	Ribosomal Protein of the Small subunit	252
+S000004042	YLR052W	S. cerevisiae	IES3	Ino Eighty Subunit	250
+S000004045	YLR055C	S. cerevisiae	SPT8	SuPpressor of Ty	602
+S000004051	YLR061W	S. cerevisiae	RPL22A	Ribosomal Protein of the Large subunit	121
+S000004057	YLR067C	S. cerevisiae	PET309	PETite colonies	965
+S000004061	YLR071C	S. cerevisiae	RGR1	Resistant to Glucose Repression	1082
+S000004065	YLR075W	S. cerevisiae	RPL10	Ribosomal Protein of the Large subunit	221
+S000004075	YLR085C	S. cerevisiae	ARP6	Actin-Related Protein	438
+S000004076	YLR086W	S. cerevisiae	SMC4	Structural Maintenance of Chromosomes	1418
+S000004078	YLR088W	S. cerevisiae	GAA1	GPI Anchor Attachment	614
+S000004092	YLR102C	S. cerevisiae	APC9	Anaphase Promoting Complex	265
+S000004105	YLR115W	S. cerevisiae	CFT2	Cleavage Factor Two	859
+S000004106	YLR116W	S. cerevisiae	MSL5	Mud Synthetic-Lethal	476
+S000004107	YLR117C	S. cerevisiae	CLF1	Crooked neck-Like Factor	687
+S000004117	YLR127C	S. cerevisiae	APC2	Anaphase Promoting Complex	853
+S000004119	YLR129W	S. cerevisiae	DIP2	DOM34 Interacting Protein	943
+S000004125	YLR135W	S. cerevisiae	SLX4	Synthetic Lethal of unknown (X) function	748
+S000004131	YLR141W	S. cerevisiae	RRN5	Regulation of RNA polymerase I	363
+S000004135	YLR145W	S. cerevisiae	RMP1	RNase MRP Protein	201
+S000004137	YLR147C	S. cerevisiae	SMD3	""	101
+S000004138	YLR148W	S. cerevisiae	PEP3	carboxyPEPtidase Y-deficient	918
+S000004156	YLR166C	S. cerevisiae	SEC10	SECretory	871
+S000004157	YLR167W	S. cerevisiae	RPS31	Ribosomal Protein of the Small subunit	152
+S000004175	YLR185W	S. cerevisiae	RPL37A	Ribosomal Protein of the Large subunit	88
+S000004182	YLR192C	S. cerevisiae	HCR1	High-Copy suppressor of Rpg1	265
+S000004187	YLR197W	S. cerevisiae	NOP56	NucleOlar Protein of 56.8 kDa	504
+S000004190	YLR200W	S. cerevisiae	YKE2	Yeast ortholog of mouse KE2	114
+S000004193	YLR203C	S. cerevisiae	MSS51	Mitochondrial Splicing Suppressor	436
+S000004197	YLR207W	S. cerevisiae	HRD3	HMG-coA Reductase Degradation	833
+S000004198	YLR208W	S. cerevisiae	SEC13	SECretory	297
+S000004200	YLR210W	S. cerevisiae	CLB4	CycLin B	460
+S000004211	YLR221C	S. cerevisiae	RSA3	RiboSome Assembly	220
+S000004212	YLR222C	S. cerevisiae	UTP13	U Three Protein	817
+S000004216	YLR226W	S. cerevisiae	BUR2	Bypass UAS Requirement	395
+S000004219	YLR229C	S. cerevisiae	CDC42	Cell Division Cycle	191
+S000004228	YLR238W	S. cerevisiae	FAR10	Factor ARrest	478
+S000004254	YLR264W	S. cerevisiae	RPS28B	Ribosomal Protein of the Small subunit	67
+S000004260	YLR270W	S. cerevisiae	DCS1	DeCapping Scavenger	350
+S000004262	YLR272C	S. cerevisiae	YCS4	Yeast Condensin Subunit	1176
+S000004264	YLR274W	S. cerevisiae	MCM5	MiniChromosome Maintenance	775
+S000004265	YLR275W	S. cerevisiae	SMD2	""	110
+S000004267	YLR277C	S. cerevisiae	YSH1	Yeast Seventy-three Homolog	779
+S000004278	YLR287C-A	S. cerevisiae	RPS30A	Ribosomal Protein of the Small subunit	63
+S000004279	YLR288C	S. cerevisiae	MEC3	Mitosis Entry Checkpoint	474
+S000004282	YLR291C	S. cerevisiae	GCD7	General Control Derepressed	381
+S000004283	YLR292C	S. cerevisiae	SEC72	SECretory	193
+S000004286	YLR295C	S. cerevisiae	ATP14	ATP synthase	124
+S000004289	YLR298C	S. cerevisiae	YHC1	Yeast Homolog of human U1C	231
+S000004304	YLR312W-A	S. cerevisiae	MRPL15	Mitochondrial Ribosomal Protein, Large subunit	253
+S000004313	YLR321C	S. cerevisiae	SFH1	Snf Five Homolog	426
+S000004317	YLR325C	S. cerevisiae	RPL38	Ribosomal Protein of the Large subunit	78
+S000004322	YLR330W	S. cerevisiae	CHS5	CHitin Synthase-related	671
+S000004325	YLR333C	S. cerevisiae	RPS25B	Ribosomal Protein of the Small subunit	108
+S000004332	YLR340W	S. cerevisiae	RPP0	Ribosomal Protein P0	312
+S000004334	YLR342W	S. cerevisiae	FKS1	FK506 Sensitivity	1876
+S000004336	YLR344W	S. cerevisiae	RPL26A	Ribosomal Protein of the Large subunit	127
+S000004349	YLR357W	S. cerevisiae	RSC2	Remodel the Structure of Chromatin	889
+S000004359	YLR367W	S. cerevisiae	RPS22B	Ribosomal Protein of the Small subunit	130
+S000004362	YLR370C	S. cerevisiae	ARC18	ARp2/3 Complex subunit	178
+S000004374	YLR382C	S. cerevisiae	NAM2	Nuclear Accommodation of Mitochondria	894
+S000004375	YLR383W	S. cerevisiae	SMC6	Structural Maintenance of Chromosomes	1114
+S000004376	YLR384C	S. cerevisiae	IKI3	Insensitive to KIller toxin	1349
+S000004377	YLR385C	S. cerevisiae	SWC7	SWr Complex	132
+S000004378	YLR386W	S. cerevisiae	VAC14	VACuole morphology and inheritance mutant	880
+S000004380	YLR388W	S. cerevisiae	RPS29A	Ribosomal Protein of the Small subunit	56
+S000004387	YLR395C	S. cerevisiae	COX8	Cytochrome c OXidase	78
+S000004388	YLR396C	S. cerevisiae	VPS33	Vacuolar Protein Sorting	691
+S000004398	YLR406C	S. cerevisiae	RPL31B	Ribosomal Protein of the Large subunit	113
+S000004401	YLR409C	S. cerevisiae	UTP21	U Three Protein	939
+S000004410	YLR418C	S. cerevisiae	CDC73	Cell Division Cycle	393
+S000004413	YLR421C	S. cerevisiae	RPN13	Regulatory Particle Non-ATPase	156
+S000004416	YLR424W	S. cerevisiae	SPP382	Suppressor of PrP38 #2	708
+S000004431	YLR439W	S. cerevisiae	MRPL4	Mitochondrial Ribosomal Protein, Large subunit	319
+S000004432	YLR440C	S. cerevisiae	SEC39	SECretory	709
+S000004433	YLR441C	S. cerevisiae	RPS1A	Ribosomal Protein of the Small subunit	255
+S000004439	YLR447C	S. cerevisiae	VMA6	Vacuolar Membrane Atpase	345
+S000004440	YLR448W	S. cerevisiae	RPL6B	Ribosomal Protein of the Large subunit	176
+S000004449	YLR457C	S. cerevisiae	NBP1	Nap1 Binding Protein	319
+S000004451	YLR459W	S. cerevisiae	GAB1	GPI and Actin Bar	394
+S000004468	YML009C	S. cerevisiae	MRPL39	Mitochondrial Ribosomal Protein, Large subunit	70
+S000004473	YML012W	S. cerevisiae	ERV25	ER Vesicle	211
+S000004477	YML015C	S. cerevisiae	TAF11	TATA binding protein-Associated Factor	346
+S000004481	YML019W	S. cerevisiae	OST6	OligoSaccharylTransferase	332
+S000004485	YML023C	S. cerevisiae	NSE5	Non-SMC Element 5	556
+S000004486	YML024W	S. cerevisiae	RPS17A	Ribosomal Protein of the Small subunit	136
+S000004487	YML025C	S. cerevisiae	YML6	""	286
+S000004488	YML026C	S. cerevisiae	RPS18B	Ribosomal Protein of the Small subunit	146
+S000004491	YML029W	S. cerevisiae	USA1	U1-Snp1 Associating	838
+S000004500	YML036W	S. cerevisiae	CGI121	homolog of human CGI-121	181
+S000004505	YML041C	S. cerevisiae	VPS71	Vacuolar Protein Sorting	280
+S000004509	YML046W	S. cerevisiae	PRP39	Pre-mRNA Processing	629
+S000004513	YML049C	S. cerevisiae	RSE1	RNA Splicing and ER-to-Golgi transport	1361
+S000004515	YML051W	S. cerevisiae	GAL80	GALactose metabolism	435
+S000004528	YML063W	S. cerevisiae	RPS1B	Ribosomal Protein of the Small subunit	255
+S000004530	YML065W	S. cerevisiae	ORC1	Origin Recognition Complex	914
+S000004532	YML067C	S. cerevisiae	ERV41	ER Vesicle	352
+S000004536	YML071C	S. cerevisiae	COG8	Conserved Oligomeric Golgi complex	607
+S000004538	YML073C	S. cerevisiae	RPL6A	Ribosomal Protein of the Large subunit	176
+S000004542	YML077W	S. cerevisiae	BET5	Blocked Early in Transport	159
+S000004557	YML092C	S. cerevisiae	PRE8	PRoteinase yscE	250
+S000004559	YML094W	S. cerevisiae	GIM5	Gene Involved in Microtubule biogenesis	163
+S000004564	YML098W	S. cerevisiae	TAF13	TATA binding protein-Associated Factor	167
+S000004566	YML100W	S. cerevisiae	TSL1	Trehalose Synthase Long chain	1098
+S000004573	YML105C	S. cerevisiae	SEC65	SECretory	273
+S000004579	YML111W	S. cerevisiae	BUL2	Binds Ubiquitin Ligase	920
+S000004582	YML114C	S. cerevisiae	TAF8	TATA binding protein-Associated Factor	510
+S000004583	YML115C	S. cerevisiae	VAN1	VANadate resistance protein	535
+S000004596	YML127W	S. cerevisiae	RSC9	Remodel the Structure of Chromatin	581
+S000004598	YML129C	S. cerevisiae	COX14	Cytochrome c OXidase	70
+S000004607	YMR005W	S. cerevisiae	TAF4	TATA binding protein-Associated Factor	388
+S000004614	YMR012W	S. cerevisiae	CLU1	CLUstered mitochondria	1277
+S000004625	YMR023C	S. cerevisiae	MSS1	Mitochondrial Splicing System	526
+S000004626	YMR024W	S. cerevisiae	MRPL3	Mitochondrial Ribosomal Protein, Large subunit	390
+S000004627	YMR025W	S. cerevisiae	CSI1	Cop9 Signalosome Interactor	295
+S000004630	YMR028W	S. cerevisiae	TAP42	Two A phosphatase Associated Protein	366
+S000004631	YMR029C	S. cerevisiae	FAR8	Factor ARrest	523
+S000004636	YMR033W	S. cerevisiae	ARP9	Actin-Related Protein	467
+S000004641	YMR038C	S. cerevisiae	CCS1	Copper Chaperone for SOD1	249
+S000004651	YMR048W	S. cerevisiae	CSM3	Chromosome Segregation in Meiosis	317
+S000004656	YMR052W	S. cerevisiae	FAR3	Factor ARrest	204
+S000004658	YMR054W	S. cerevisiae	STV1	Similar To VPH1	890
+S000004659	YMR055C	S. cerevisiae	BUB2	Budding Uninhibited by Benzimidazole	306
+S000004665	YMR061W	S. cerevisiae	RNA14	poly(A) mRNA metabolism	677
+S000004672	YMR068W	S. cerevisiae	AVO2	Adheres VOraciously (to TOR2)	426
+S000004680	YMR075W	S. cerevisiae	RCO1	""	684
+S000004683	YMR078C	S. cerevisiae	CTF18	Chromosome Transmission Fidelity	741
+S000004697	YMR091C	S. cerevisiae	NPL6	Nuclear Protein Localization	435
+S000004699	YMR093W	S. cerevisiae	UTP15	U Three Protein	513
+S000004701	YMR095C	S. cerevisiae	SNO1	SNZ proximal Open reading frame	224
+S000004702	YMR096W	S. cerevisiae	SNZ1	SNooZe	297
+S000004718	YMR112C	S. cerevisiae	MED11	MEDiator complex	131
+S000004722	YMR116C	S. cerevisiae	ASC1	Absence of growth Suppressor of Cyp1	319
+S000004728	YMR121C	S. cerevisiae	RPL15B	Ribosomal Protein of the Large subunit	204
+S000004732	YMR125W	S. cerevisiae	STO1	Suppressor of TOp1	861
+S000004742	YMR135C	S. cerevisiae	GID8	Glucose Induced Degradation deficient	455
+S000004750	YMR142C	S. cerevisiae	RPL13B	Ribosomal Protein of the Large subunit	199
+S000004751	YMR143W	S. cerevisiae	RPS16A	Ribosomal Protein of the Small subunit	143
+S000004754	YMR146C	S. cerevisiae	TIF34	Translation Initiation Factor	347
+S000004757	YMR149W	S. cerevisiae	SWP1	Suppressor of a WbP1 mutation	286
+S000004767	YMR158W	S. cerevisiae	MRPS8	Mitochondrial Ribosomal Protein, Small subunit	155
+S000004769	YMR159C	S. cerevisiae	ATG16	AuTophaGy related	150
+S000004777	YMR167W	S. cerevisiae	MLH1	MutL Homolog	769
+S000004800	YMR188C	S. cerevisiae	MRPS17	Mitochondrial Ribosomal Protein, Small subunit	237
+S000004801	YMR189W	S. cerevisiae	GCV2	GlyCine cleaVage	1034
+S000004804	YMR192W	S. cerevisiae	GYL1	GYp Like	720
+S000004806	YMR193W	S. cerevisiae	MRPL24	Mitochondrial Ribosomal Protein, Large subunit	258
+S000004807	YMR194W	S. cerevisiae	RPL36A	Ribosomal Protein of the Large subunit	100
+S000004812	YMR199W	S. cerevisiae	CLN1	CycLiN	546
+S000004816	YMR203W	S. cerevisiae	TOM40	Translocase of the Outer Mitochondrial membrane	387
+S000004826	YMR213W	S. cerevisiae	CEF1	CErevisiae homolog of cdc Five	590
+S000004831	YMR218C	S. cerevisiae	TRS130	TRapp Subunit	1102
+S000004836	YMR223W	S. cerevisiae	UBP8	UBiquitin-specific processing Protease	471
+S000004838	YMR225C	S. cerevisiae	MRPL44	Mitochondrial Ribosomal Protein, Large subunit	98
+S000004840	YMR227C	S. cerevisiae	TAF7	TATA binding protein-Associated Factor	590
+S000004843	YMR230W	S. cerevisiae	RPS10B	Ribosomal Protein of the Small subunit	105
+S000004844	YMR231W	S. cerevisiae	PEP5	carboxyPEPtidase Y-deficient	1029
+S000004849	YMR236W	S. cerevisiae	TAF9	TATA binding protein-Associated Factor	157
+S000004850	YMR237W	S. cerevisiae	BCH1	Bud7 and Chs6 Homolog	724
+S000004853	YMR240C	S. cerevisiae	CUS1	Cold sensitive U2 snRNA Suppressor	436
+S000004855	YMR242C	S. cerevisiae	RPL20A	Ribosomal Protein of the Large subunit	172
+S000004869	YMR256C	S. cerevisiae	COX7	Cytochrome c OXidase	60
+S000004873	YMR260C	S. cerevisiae	TIF11	Translation Initiation Factor	153
+S000004874	YMR261C	S. cerevisiae	TPS3	Trehalose Phosphate Synthase	1054
+S000004876	YMR263W	S. cerevisiae	SAP30	Sin3-Associated Polypeptide	201
+S000004881	YMR268C	S. cerevisiae	PRP24	Pre-mRNA Processing	444
+S000004883	YMR270C	S. cerevisiae	RRN9	Regulation of RNA polymerase I	365
+S000004888	YMR275C	S. cerevisiae	BUL1	Binds Ubiquitin Ligase	976
+S000004899	YMR286W	S. cerevisiae	MRPL33	Mitochondrial Ribosomal Protein, Large subunit	86
+S000004901	YMR288W	S. cerevisiae	HSH155	Human Sap Homolog	971
+S000004926	YMR309C	S. cerevisiae	NIP1	Nuclear ImPort	812
+S000004929	YMR312W	S. cerevisiae	ELP6	ELongator Protein	273
+S000004931	YMR314W	S. cerevisiae	PRE5	PRoteinase yscE	234
+S000004950	YNL005C	S. cerevisiae	MRP7	Mitochondrial Ribosomal Protein	371
+S000004951	YNL006W	S. cerevisiae	LST8	Lethal with Sec Thirteen	303
+S000004960	YNL015W	S. cerevisiae	PBI2	Proteinase B Inhibitor	75
+S000004970	YNL025C	S. cerevisiae	SSN8	Suppressor of SNf1	323
+S000004975	YNL030W	S. cerevisiae	HHF2	Histone H Four	103
+S000004976	YNL031C	S. cerevisiae	HHT2	Histone H Three	136
+S000004986	YNL041C	S. cerevisiae	COG6	Conserved Oligomeric Golgi complex	839
+S000004992	YNL047C	S. cerevisiae	SLM2	Synthetic Lethal with Mss4	656
+S000004996	YNL051W	S. cerevisiae	COG5	Conserved Oligomeric Golgi complex	403
+S000004997	YNL052W	S. cerevisiae	COX5A	Cytochrome c OXidase	153
+S000005004	YNL059C	S. cerevisiae	ARP5	Actin-Related Protein	755
+S000005006	YNL062C	S. cerevisiae	GCD10	General Control Derepressed	478
+S000005011	YNL067W	S. cerevisiae	RPL9B	Ribosomal Protein of the Large subunit	191
+S000005013	YNL069C	S. cerevisiae	RPL16B	Ribosomal Protein of the Large subunit	198
+S000005014	YNL070W	S. cerevisiae	TOM7	Translocase of the Outer Mitochondrial membrane	60
+S000005020	YNL076W	S. cerevisiae	MKS1	Multicopy Kinase Suppressor	584
+S000005025	YNL081C	S. cerevisiae	SWS2	Sick Without Securin	143
+S000005026	YNL082W	S. cerevisiae	PMS1	PostMeiotic Segregation	873
+S000005028	YNL084C	S. cerevisiae	END3	ENDocytosis defective	349
+S000005029	YNL085W	S. cerevisiae	MKT1	Maintenance of K2 Killer Toxin	830
+S000005040	YNL096C	S. cerevisiae	RPS7B	Ribosomal Protein of the Small subunit	190
+S000005041	YNL097C	S. cerevisiae	PHO23	PHOsphate metabolism	330
+S000005046	YNL102W	S. cerevisiae	POL1	POLymerase	1468
+S000005047	YNL103W	S. cerevisiae	MET4	METhionine requiring	672
+S000005051	YNL107W	S. cerevisiae	YAF9	Yeast homolog of the human leukemogenic protein AF9	226
+S000005057	YNL113W	S. cerevisiae	RPC19	RNA Polymerase C	142
+S000005065	YNL121C	S. cerevisiae	TOM70	Translocase of the Outer Mitochondrial membrane	617
+S000005068	YNL124W	S. cerevisiae	NAF1	Nuclear Assembly Factor	492
+S000005071	YNL127W	S. cerevisiae	FAR11	Factor ARrest	953
+S000005075	YNL131W	S. cerevisiae	TOM22	Translocase of the Outer Mitochondrial membrane	152
+S000005080	YNL136W	S. cerevisiae	EAF7	Esa1-Associated Factor	425
+S000005081	YNL137C	S. cerevisiae	NAM9	Nuclear Accommodation of Mitochondria	486
+S000005091	YNL147W	S. cerevisiae	LSM7	Like SM	115
+S000005095	YNL151C	S. cerevisiae	RPC31	RNA Polymerase C	251
+S000005097	YNL153C	S. cerevisiae	GIM3	Gene Involved in Microtubule biogenesis	129
+S000005105	YNL161W	S. cerevisiae	CBK1	Cell wall Biosynthesis Kinase	756
+S000005106	YNL162W	S. cerevisiae	RPL42A	Ribosomal Protein of the Large subunit	106
+S000005111	YNL167C	S. cerevisiae	SKO1	Suppressor of Kinase Overexpression	647
+S000005116	YNL172W	S. cerevisiae	APC1	Anaphase Promoting Complex subunit	1748
+S000005121	YNL177C	S. cerevisiae	MRPL22	Mitochondrial Ribosomal Protein, Large subunit	309
+S000005122	YNL178W	S. cerevisiae	RPS3	Ribosomal Protein of the Small subunit	240
+S000005129	YNL185C	S. cerevisiae	MRPL19	Mitochondrial Ribosomal Protein, Large subunit	158
+S000005165	YNL221C	S. cerevisiae	POP1	Processing Of Precursor RNAs	875
+S000005166	YNL222W	S. cerevisiae	SSU72	Suppressor of SUa7, gene 2	206
+S000005169	YNL225C	S. cerevisiae	CNM67	Chaotic Nuclear Migration	581
+S000005174	YNL230C	S. cerevisiae	ELA1	ELongin A	379
+S000005176	YNL232W	S. cerevisiae	CSL4	Cep1 Synthetic Lethal	292
+S000005177	YNL233W	S. cerevisiae	BNI4	Bud Neck Involved	892
+S000005180	YNL236W	S. cerevisiae	SIN4	Switch INdependent	974
+S000005188	YNL244C	S. cerevisiae	SUI1	SUppressor of Initiator codon	108
+S000005190	YNL246W	S. cerevisiae	VPS75	Vacuolar Protein Sorting	264
+S000005192	YNL248C	S. cerevisiae	RPA49	RNA Polymerase A	415
+S000005196	YNL252C	S. cerevisiae	MRPL17	Mitochondrial Ribosomal Protein, Large subunit	281
+S000005202	YNL258C	S. cerevisiae	DSL1	Dependence on SLy1-20	754
+S000005205	YNL261W	S. cerevisiae	ORC5	Origin Recognition Complex	479
+S000005217	YNL273W	S. cerevisiae	TOF1	TOpoisomerase I-interacting Factor	1238
+S000005226	YNL282W	S. cerevisiae	POP3	Processing Of Precursor RNAs	195
+S000005228	YNL284C	S. cerevisiae	MRPL10	Mitochondrial Ribosomal Protein, Large subunit	322
+S000005230	YNL286W	S. cerevisiae	CUS2	Cold sensitive U2 snRNA Suppressor	285
+S000005231	YNL287W	S. cerevisiae	SEC21	SECretory	935
+S000005232	YNL288W	S. cerevisiae	CAF40	CCR4 Associated Factor	373
+S000005233	YNL289W	S. cerevisiae	PCL1	Pho85 CycLin	279
+S000005234	YNL290W	S. cerevisiae	RFC3	Replication Factor C	340
+S000005241	YNL297C	S. cerevisiae	MON2	MONensin sensitivity	1636
+S000005245	YNL301C	S. cerevisiae	RPL18B	Ribosomal Protein of the Large subunit	186
+S000005246	YNL302C	S. cerevisiae	RPS19B	Ribosomal Protein of the Small subunit	144
+S000005250	YNL306W	S. cerevisiae	MRPS18	Mitochondrial Ribosomal Protein, Small subunit	217
+S000005261	YNL317W	S. cerevisiae	PFS2	Polyadenylation Factor Subunit	465
+S000005269	YNL325C	S. cerevisiae	FIG4	Factor-Induced Gene	879
+S000005274	YNL330C	S. cerevisiae	RPD3	Reduced Potassium Dependency	433
+S000005286	YNR003C	S. cerevisiae	RPC34	RNA Polymerase C	317
+S000005289	YNR006W	S. cerevisiae	VPS27	Vacuolar Protein Sorting	622
+S000005293	YNR010W	S. cerevisiae	CSE2	Chromosome SEgregation	149
+S000005300	YNR017W	S. cerevisiae	TIM23	Translocase of the Inner Mitochondrial membrane	222
+S000005305	YNR022C	S. cerevisiae	MRPL50	Mitochondrial Ribosomal Protein, Large subunit	139
+S000005306	YNR023W	S. cerevisiae	SNF12	Sucrose NonFermenting	566
+S000005318	YNR035C	S. cerevisiae	ARC35	ARp2/3 Complex subunit	342
+S000005320	YNR037C	S. cerevisiae	RSM19	Ribosomal Small subunit of Mitochondria	91
+S000005321	YNR038W	S. cerevisiae	DBP6	Dead Box Protein	629
+S000005334	YNR051C	S. cerevisiae	BRE5	BREfeldin A sensitivity	515
+S000005335	YNR052C	S. cerevisiae	POP2	PGK promoter directed OverProduction	433
+S000005361	YOL001W	S. cerevisiae	PHO80	PHOsphate metabolism	293
+S000005364	YOL004W	S. cerevisiae	SIN3	Switch INdependent	1536
+S000005365	YOL005C	S. cerevisiae	RPB11	RNA Polymerase B	120
+S000005369	YOL009C	S. cerevisiae	MDM12	Mitochondrial Distribution and Morphology	271
+S000005372	YOL012C	S. cerevisiae	HTZ1	Histone Two A Z1	134
+S000005373	YOL013C	S. cerevisiae	HRD1	HMG-coA Reductase Degradation	551
+S000005381	YOL021C	S. cerevisiae	DIS3	homolog of S. pombe dis3 (chromosome DISjunction)	1001
+S000005394	YOL034W	S. cerevisiae	SMC5	Structural Maintenance of Chromosomes	1093
+S000005398	YOL038W	S. cerevisiae	PRE6	PRoteinase yscE	254
+S000005399	YOL039W	S. cerevisiae	RPP2A	Ribosomal Protein P2 Alpha	106
+S000005400	YOL040C	S. cerevisiae	RPS15	Ribosomal Protein of the Small subunit	142
+S000005411	YOL051W	S. cerevisiae	GAL11	GALactose metabolism	1081
+S000005428	YOL067C	S. cerevisiae	RTG1	ReTroGrade regulation	177
+S000005429	YOL068C	S. cerevisiae	HST1	Homolog of SIR Two (SIR2)	503
+S000005433	YOL072W	S. cerevisiae	THP1	Tho2/Hpr1 Phenotype	455
+S000005438	YOL078W	S. cerevisiae	AVO1	Adheres VOraciously (to TOR2)	1176
+S000005450	YOL090W	S. cerevisiae	MSH2	MutS Homolog	964
+S000005454	YOL094C	S. cerevisiae	RFC4	Replication Factor C	323
+S000005468	YOL108C	S. cerevisiae	INO4	INOsitol requiring	151
+S000005477	YOL117W	S. cerevisiae	RRI2	""	645
+S000005480	YOL120C	S. cerevisiae	RPL18A	Ribosomal Protein of the Large subunit	186
+S000005481	YOL121C	S. cerevisiae	RPS19A	Ribosomal Protein of the Small subunit	144
+S000005483	YOL123W	S. cerevisiae	HRP1	Heterogenous nuclear RibonucleoProtein	534
+S000005487	YOL127W	S. cerevisiae	RPL25	Ribosomal Protein of the Large subunit	142
+S000005495	YOL135C	S. cerevisiae	MED7	MEDiator complex	222
+S000005502	YOL142W	S. cerevisiae	RRP40	Ribosomal RNA Processing	240
+S000005504	YOL144W	S. cerevisiae	NOP8	NucleOlar Protein	484
+S000005505	YOL145C	S. cerevisiae	CTR9	Cln Three (CLN3) Requiring	1077
+S000005508	YOL148C	S. cerevisiae	SPT20	SuPpressor of Ty	604
+S000005527	YOR001W	S. cerevisiae	RRP6	Ribosomal RNA Processing	733
+S000005549	YOR023C	S. cerevisiae	AHC1	Ada Histone acetyltransferase complex Component	566
+S000005552	YOR026W	S. cerevisiae	BUB3	Budding Uninhibited by Benzimidazole	341
+S000005565	YOR039W	S. cerevisiae	CKB2	Casein Kinase Beta' subunit	258
+S000005569	YOR043W	S. cerevisiae	WHI2	WHIskey	486
+S000005571	YOR045W	S. cerevisiae	TOM6	Translocase of the Outer Mitochondrial membrane	61
+S000005587	YOR061W	S. cerevisiae	CKA2	Casein Kinase Alpha' subunit	339
+S000005589	YOR063W	S. cerevisiae	RPL3	Ribosomal Protein of the Large subunit	387
+S000005591	YOR065W	S. cerevisiae	CYT1	CYTochrome c1	309
+S000005595	YOR069W	S. cerevisiae	VPS5	Vacuolar Protein Sorting	675
+S000005601	YOR075W	S. cerevisiae	UFE1	Unknown Function Essential	346
+S000005611	YOR085W	S. cerevisiae	OST3	OligoSaccharylTransferase	350
+S000005622	YOR096W	S. cerevisiae	RPS7A	Ribosomal Protein of the Small subunit	190
+S000005629	YOR103C	S. cerevisiae	OST2	OligoSaccharylTransferase	130
+S000005632	YOR106W	S. cerevisiae	VAM3	VAcuolar Morphogenesis	283
+S000005636	YOR110W	S. cerevisiae	TFC7	""	435
+S000005641	YOR115C	S. cerevisiae	TRS33	TRapp Subunit	268
+S000005642	YOR116C	S. cerevisiae	RPO31	RNA POlymerase	1460
+S000005643	YOR117W	S. cerevisiae	RPT5	Regulatory Particle Triple-A protein, or Regulatory Particle Triphosphatase	434
+S000005649	YOR123C	S. cerevisiae	LEO1	LEft Open reading frame	464
+S000005658	YOR132W	S. cerevisiae	VPS17	Vacuolar Protein Sorting	551
+S000005667	YOR141C	S. cerevisiae	ARP8	Actin-Related Protein	881
+S000005670	YOR144C	S. cerevisiae	ELG1	Enhanced Level of Genomic instability	791
+S000005676	YOR150W	S. cerevisiae	MRPL23	Mitochondrial Ribosomal Protein, Large subunit	163
+S000005677	YOR151C	S. cerevisiae	RPB2	RNA Polymerase B	1224
+S000005683	YOR157C	S. cerevisiae	PUP1	PUtative Proteasome subunit	261
+S000005684	YOR158W	S. cerevisiae	PET123	PETite colonies	318
+S000005685	YOR159C	S. cerevisiae	SME1	Sm protein E	94
+S000005693	YOR167C	S. cerevisiae	RPS28A	Ribosomal Protein of the Small subunit	67
+S000005699	YOR173W	S. cerevisiae	DCS2	DeCapping Scavenger	353
+S000005700	YOR174W	S. cerevisiae	MED4	MEDiator complex	284
+S000005704	YOR178C	S. cerevisiae	GAC1	Glycogen ACcumulation	793
+S000005705	YOR179C	S. cerevisiae	SYC1	Similar to Ysh1 C-terminal	188
+S000005708	YOR182C	S. cerevisiae	RPS30B	Ribosomal Protein of the Small subunit	63
+S000005715	YOR189W	S. cerevisiae	IES4	Ino Eighty Subunit	116
+S000005732	YOR206W	S. cerevisiae	NOC2	NucleOlar Complex associated	710
+S000005733	YOR207C	S. cerevisiae	RET1	Reduced Efficiency of Termination	1149
+S000005736	YOR210W	S. cerevisiae	RPB10	RNA Polymerase B	70
+S000005737	YOR211C	S. cerevisiae	MGM1	Mitochondrial Genome Maintenance	881
+S000005738	YOR212W	S. cerevisiae	STE4	STErile	423
+S000005743	YOR217W	S. cerevisiae	RFC1	Replication Factor C	861
+S000005750	YOR224C	S. cerevisiae	RPB8	RNA Polymerase B	146
+S000005758	YOR232W	S. cerevisiae	MGE1	Mitochondrial GrpE	228
+S000005760	YOR234C	S. cerevisiae	RPL33B	Ribosomal Protein of the Large subunit	107
+S000005770	YOR244W	S. cerevisiae	ESA1	""	445
+S000005775	YOR249C	S. cerevisiae	APC5	Anaphase Promoting Complex	685
+S000005776	YOR250C	S. cerevisiae	CLP1	CLeavage/Polyadenylation factor Ia subunit	445
+S000005780	YOR254C	S. cerevisiae	SEC63	SECretory	663
+S000005785	YOR259C	S. cerevisiae	RPT4	Regulatory Particle Triple-A protein, or Regulatory Particle Triphosphatase	437
+S000005786	YOR260W	S. cerevisiae	GCD1	General Control Derepressed	578
+S000005787	YOR261C	S. cerevisiae	RPN8	Regulatory Particle Non-ATPase	338
+S000005796	YOR270C	S. cerevisiae	VPH1	Vacuolar pH	840
+S000005805	YOR279C	S. cerevisiae	RFM1	Repression Factor of Middle sporulation element	310
+S000005816	YOR290C	S. cerevisiae	SNF2	Sucrose NonFermenting	1703
+S000005819	YOR293W	S. cerevisiae	RPS10A	Ribosomal Protein of the Small subunit	105
+S000005821	YOR295W	S. cerevisiae	UAF30	Upstream Activation Factor subunit	228
+S000005825	YOR299W	S. cerevisiae	BUD7	BUD site selection	746
+S000005835	YOR308C	S. cerevisiae	SNU66	Small NUclear ribonucleoprotein associated	587
+S000005837	YOR310C	S. cerevisiae	NOP58	NucleOlar Protein of 58 kDa	511
+S000005839	YOR312C	S. cerevisiae	RPL20B	Ribosomal Protein of the Large subunit	172
+S000005846	YOR319W	S. cerevisiae	HSH49	Human Sap Homolog	213
+S000005848	YOR321W	S. cerevisiae	PMT3	Protein O-MannosylTransferase	753
+S000005859	YOR332W	S. cerevisiae	VMA4	Vacuolar Membrane Atpase	233
+S000005867	YOR340C	S. cerevisiae	RPA43	RNA Polymerase A	326
+S000005868	YOR341W	S. cerevisiae	RPA190	RNA Polymerase A	1664
+S000005880	YOR353C	S. cerevisiae	SOG2	""	791
+S000005888	YOR361C	S. cerevisiae	PRT1	PRoTein synthesis	763
+S000005889	YOR362C	S. cerevisiae	PRE10	PRoteinase yscE	288
+S000005895	YOR368W	S. cerevisiae	RAD17	RADiation sensitive	401
+S000005896	YOR369C	S. cerevisiae	RPS12	Ribosomal Protein of the Small subunit	143
+S000005900	YOR373W	S. cerevisiae	NUD1	""	851
+S000005924	YPL003W	S. cerevisiae	ULA1	Ubiquitin-Like protein Activation	462
+S000005928	YPL007C	S. cerevisiae	TFC8	Transcription Factor C	588
+S000005931	YPL010W	S. cerevisiae	RET3	RETrieval from ER	189
+S000005932	YPL011C	S. cerevisiae	TAF3	TATA binding protein-Associated Factor	353
+S000005934	YPL013C	S. cerevisiae	MRPS16	Mitochondrial Ribosomal Protein, Small subunit	121
+S000005937	YPL016W	S. cerevisiae	SWI1	SWItching deficient	1314
+S000005952	YPL031C	S. cerevisiae	PHO85	PHOsphate metabolism	305
+S000005959	YPL038W	S. cerevisiae	MET31	METhionine requiring	177
+S000005963	YPL042C	S. cerevisiae	SSN3	Suppressor of SNf1	555
+S000005966	YPL045W	S. cerevisiae	VPS16	Vacuolar Protein Sorting	798
+S000005967	YPL046C	S. cerevisiae	ELC1	ELongin C	99
+S000005968	YPL047W	S. cerevisiae	SGF11	SaGa associated Factor 11kDa	99
+S000005969	YPL048W	S. cerevisiae	CAM1	Calcium And Membrane-binding protein	415
+S000005970	YPL049C	S. cerevisiae	DIG1	Down-regulator of Invasive Growth	452
+S000005971	YPL050C	S. cerevisiae	MNN9	MaNNosyltransferase	395
+S000005976	YPL055C	S. cerevisiae	LGE1	LarGE cells	332
+S000005978	YPL057C	S. cerevisiae	SUR1	SUppressor of Rvs161 and rvs167 mutations	382
+S000005984	YPL063W	S. cerevisiae	TIM50	Translocase of the Inner Mitochondrial membrane	476
+S000005999	YPL078C	S. cerevisiae	ATP4	ATP synthase	244
+S000006000	YPL079W	S. cerevisiae	RPL21B	Ribosomal Protein of the Large subunit	160
+S000006002	YPL081W	S. cerevisiae	RPS9A	Ribosomal Protein of the Small subunit	197
+S000006006	YPL085W	S. cerevisiae	SEC16	SECretory	2195
+S000006007	YPL086C	S. cerevisiae	ELP3	ELongator Protein	557
+S000006011	YPL090C	S. cerevisiae	RPS6A	Ribosomal Protein of the Small subunit	236
+S000006015	YPL094C	S. cerevisiae	SEC62	SECretory	274
+S000006017	YPL096W	S. cerevisiae	PNG1	Peptide N-Glycanase	363
+S000006022	YPL101W	S. cerevisiae	ELP4	ELongator Protein	456
+S000006032	YPL111W	S. cerevisiae	CAR1	Catabolism of ARginine	333
+S000006039	YPL118W	S. cerevisiae	MRP51	Mitochondrial Ribosomal Protein	344
+S000006042	YPL121C	S. cerevisiae	MEI5	MEIosis	222
+S000006043	YPL122C	S. cerevisiae	TFB2	Transcription Factor B subunit 2	513
+S000006045	YPL124W	S. cerevisiae	SPC29	Spindle Pole Component	253
+S000006047	YPL126W	S. cerevisiae	NAN1	Net1 Associated Nuclear protein	896
+S000006050	YPL129W	S. cerevisiae	TAF14	TATA binding protein-Associated Factor	244
+S000006052	YPL131W	S. cerevisiae	RPL5	Ribosomal Protein of the Large subunit	297
+S000006059	YPL138C	S. cerevisiae	SPP1	Set1c, Phd finger Protein	353
+S000006060	YPL139C	S. cerevisiae	UME1	Unscheduled Meiotic gene Expression	460
+S000006064	YPL143W	S. cerevisiae	RPL33A	Ribosomal Protein of the Large subunit	107
+S000006068	YPL147W	S. cerevisiae	PXA1	PeroXisomal ABC-transporter	870
+S000006070	YPL149W	S. cerevisiae	ATG5	AuTophaGy related	294
+S000006073	YPL152W	S. cerevisiae	RRD2	Resistant to Rapamycin Deletion	358
+S000006074	YPL153C	S. cerevisiae	RAD53	RADiation sensitive	821
+S000006085	YPL164C	S. cerevisiae	MLH3	MutL Homolog	715
+S000006090	YPL169C	S. cerevisiae	MEX67	Messenger RNA EXport factor of 67 kDa	599
+S000006094	YPL173W	S. cerevisiae	MRPL40	Mitochondrial Ribosomal Protein, Large subunit	297
+S000006099	YPL178W	S. cerevisiae	CBC2	Cap Binding Complex	208
+S000006102	YPL181W	S. cerevisiae	CTI6	Cyc8-Tup1 Interacting protein	506
+S000006115	YPL194W	S. cerevisiae	DDC1	DNA Damage Checkpoint	612
+S000006119	YPL198W	S. cerevisiae	RPL7B	Ribosomal Protein of the Large subunit	244
+S000006131	YPL210C	S. cerevisiae	SRP72	Signal Recognition Particle	640
+S000006134	YPL213W	S. cerevisiae	LEA1	Looks Exceptionally like U2A	238
+S000006139	YPL218W	S. cerevisiae	SAR1	Secretion-Associated, Ras-related	190
+S000006140	YPL219W	S. cerevisiae	PCL8	Pho85 CycLin	492
+S000006141	YPL220W	S. cerevisiae	RPL1A	Ribosomal Protein of the Large subunit	217
+S000006155	YPL234C	S. cerevisiae	VMA11	Vacuolar Membrane Atpase	164
+S000006156	YPL235W	S. cerevisiae	RVB2	RuVB-like	471
+S000006158	YPL237W	S. cerevisiae	SUI3	SUppressor of Initiator codon	285
+S000006164	YPL243W	S. cerevisiae	SRP68	Signal Recognition Particle	599
+S000006169	YPL248C	S. cerevisiae	GAL4	GALactose metabolism	881
+S000006170	YPL249C	S. cerevisiae	GYP5	Gtpase-activating protein for Ypt Proteins	894
+S000006175	YPL254W	S. cerevisiae	HFI1	Histone H2A Functional Interactor	488
+S000006176	YPL255W	S. cerevisiae	BBP1	Bfr1 Binding Protein	385
+S000006177	YPL256C	S. cerevisiae	CLN2	CycLiN	545
+S000006192	YPL271W	S. cerevisiae	ATP15	ATP synthase	62
+S000006214	YPR010C	S. cerevisiae	RPA135	RNA Polymerase A	1203
+S000006223	YPR019W	S. cerevisiae	MCM4	MiniChromosome Maintenance	933
+S000006224	YPR020W	S. cerevisiae	ATP20	ATP synthase	115
+S000006227	YPR023C	S. cerevisiae	EAF3	Esa1p-Associated Factor	401
+S000006229	YPR025C	S. cerevisiae	CCL1	""	393
+S000006236	YPR032W	S. cerevisiae	SRO7	Suppressor of rho3	1033
+S000006238	YPR034W	S. cerevisiae	ARP7	Actin-Related Protein	477
+S000006240	YPR036W	S. cerevisiae	VMA13	Vacuolar Membrane Atpase	478
+S000006245	YPR041W	S. cerevisiae	TIF5	Translation Initiation Factor	405
+S000006247	YPR043W	S. cerevisiae	RPL43A	Ribosomal Protein of the Large subunit	92
+S000006258	YPR054W	S. cerevisiae	SMK1	""	388
+S000006259	YPR055W	S. cerevisiae	SEC8	SECretory	1065
+S000006260	YPR056W	S. cerevisiae	TFB4	Transcription Factor B subunit 4	338
+S000006270	YPR066W	S. cerevisiae	UBA3	UBiquitin-like protein-Activating enzyme	299
+S000006274	YPR070W	S. cerevisiae	MED1	MEDiator complex	566
+S000006276	YPR072W	S. cerevisiae	NOT5	Negative On TATA	560
+S000006284	YPR080W	S. cerevisiae	TEF1	Translation Elongation Factor	458
+S000006286	YPR082C	S. cerevisiae	DIB1	S. pombe DIm1+ in Budding yeast	143
+S000006292	YPR088C	S. cerevisiae	SRP54	Signal Recognition Particle 54-kD subunit	541
+S000006298	YPR094W	S. cerevisiae	RDS3	Regulator of Drug Sensitivity	107
+S000006304	YPR100W	S. cerevisiae	MRPL51	Mitochondrial Ribosomal Protein, Large subunit	140
+S000006305	YPR101W	S. cerevisiae	SNT309	Synthetic lethal to prp NineTeen mutation	175
+S000006306	YPR102C	S. cerevisiae	RPL11A	Ribosomal Protein of the Large subunit	174
+S000006307	YPR103W	S. cerevisiae	PRE2	PRoteinase yscE	287
+S000006309	YPR105C	S. cerevisiae	COG4	Conserved Oligomeric Golgi complex	861
+S000006311	YPR107C	S. cerevisiae	YTH1	Yeast THirty kDa Homolog	208
+S000006312	YPR108W	S. cerevisiae	RPN7	Regulatory Particle Non-ATPase	429
+S000006314	YPR110C	S. cerevisiae	RPC40	RNA Polymerase C	335
+S000006323	YPR119W	S. cerevisiae	CLB2	CycLin B	491
+S000006324	YPR120C	S. cerevisiae	CLB5	CycLin B	435
+S000006336	YPR132W	S. cerevisiae	RPS23B	Ribosomal Protein of the Small subunit	145
+S000006348	YPR144C	S. cerevisiae	NOC4	NucleOlar Complex associated	552
+S000006365	YPR161C	S. cerevisiae	SGV1	Suppressor of Gpa1-Val50 mutation	657
+S000006366	YPR162C	S. cerevisiae	ORC4	Origin Recognition Complex	529
+S000006369	YPR165W	S. cerevisiae	RHO1	Ras HOmolog	209
+S000006370	YPR166C	S. cerevisiae	MRP2	Mitochondrial Ribosomal Protein	115
+S000006372	YPR168W	S. cerevisiae	NUT2	Negative regulation of URS Two	157
+S000006382	YPR178W	S. cerevisiae	PRP4	Pre-mRNA Processing	465
+S000006384	YPR180W	S. cerevisiae	AOS1	Activation Of Smt3p	347
+S000006385	YPR181C	S. cerevisiae	SEC23	SECretory	768
+S000006386	YPR182W	S. cerevisiae	SMX3	""	86
+S000006391	YPR187W	S. cerevisiae	RPO26	RNA POlymerase	155
+S000006394	YPR190C	S. cerevisiae	RPC82	RNA Polymerase C	654
+S000006395	YPR191W	S. cerevisiae	QCR2	QH2:cytochrome-C oxidoReductase	368
+S000006430	YDL045W-A	S. cerevisiae	MRP10	Mitochondrial Ribosomal Protein	95
+S000006433	YPR133W-A	S. cerevisiae	TOM5	Translocase of the Outer Mitochondrial membrane	50
+S000006434	YLR438C-A	S. cerevisiae	LSM3	Like SM	89
+S000006436	YFL034C-A	S. cerevisiae	RPL22B	Ribosomal Protein of the Large subunit	122
+S000006437	YFR032C-A	S. cerevisiae	RPL29	Ribosomal Protein of the Large subunit	59
+S000006438	YPL249C-A	S. cerevisiae	RPL36B	Ribosomal Protein of the Large subunit	100
+S000006439	YCR020W-B	S. cerevisiae	HTL1	High-Temperature Lethal	78
+S000007224	YPL183W-A	S. cerevisiae	RTC6	Restriction of Telomere Capping	93
+S000007235	YDR363W-A	S. cerevisiae	SEM1	Suppressor of Exocyst Mutations	89
+S000007237	YER048W-A	S. cerevisiae	ISD11	Iron-Sulfur protein biogenesis, Desulfurase-interacting protein	94
+S000007247	YML081C-A	S. cerevisiae	ATP18	ATP synthase	59
+S000007255	YDR322C-A	S. cerevisiae	TIM11	Translocase of the Inner Mitochondrial membrane	96
+S000007260	Q0045	S. cerevisiae	COX1	Cytochrome c OXidase	534
+S000007267	Q0080	S. cerevisiae	ATP8	ATP synthase	48
+S000007268	Q0085	S. cerevisiae	ATP6	ATP synthase	259
+S000007270	Q0105	S. cerevisiae	COB	CytochrOme B	385
+S000007273	Q0120	S. cerevisiae	BI4	""	638
+S000007274	Q0130	S. cerevisiae	OLI1	OLIgomycin resistance	76
+S000007275	Q0140	S. cerevisiae	VAR1	""	398
+S000007281	Q0250	S. cerevisiae	COX2	Cytochrome c OXidase	251
+S000007283	Q0275	S. cerevisiae	COX3	Cytochrome c OXidase	269
+S000007339	YOL077W-A	S. cerevisiae	ATP19	ATP synthase	68
+S000007348	YJR135W-A	S. cerevisiae	TIM8	Translocase of the Inner Mitochondrial membrane	87
+S000007595	YBR233W-A	S. cerevisiae	DAD3	Duo1 And Dam1 interacting	94
+S000007603	YDR079C-A	S. cerevisiae	TFB5	""	72
+S000007604	YDR320C-A	S. cerevisiae	DAD4	Duo1 And Dam1 interacting	72
+S000028421	YKL138C-A	S. cerevisiae	HSK3	Helper of ASK1	69
+S000028509	YNL138W-A	S. cerevisiae	YSF3	Yeast Splicing Factor 3b subunit	85
+S000028510	YBR111W-A	S. cerevisiae	SUS1	Sl gene Upstream of ySa1	96
+S000028512	YKR095W-A	S. cerevisiae	PCC1	Polarized growth Chromatin-associated Controller	88

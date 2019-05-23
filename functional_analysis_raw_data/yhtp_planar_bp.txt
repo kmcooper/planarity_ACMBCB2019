@@ -1,0 +1,10 @@
+1	cellular component organization or biogenesis (GO:0071840)	30	3.9%	3.5%
+2	cellular process (GO:0009987)	289	37.4%	33.8%
+3	biological phase (GO:0044848)	2	0.3%	0.2%
+4	localization (GO:0051179)	114	14.7%	13.3%
+5	nitrogen utilization (GO:0019740)	1	0.1%	0.1%
+6	biological regulation (GO:0065007)	105	13.6%	12.3%
+7	reproduction (GO:0000003)	10	1.3%	1.2%
+8	response to stimulus (GO:0050896)	26	3.4%	3.0%
+9	signaling (GO:0023052)	1	0.1%	0.1%
+10	metabolic process (GO:0008152)	276	35.7%	32.3%

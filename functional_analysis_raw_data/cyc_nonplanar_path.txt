@@ -1,0 +1,72 @@
+1	Axon guidance mediated by netrin (P00009)	1	0.1%	0.3%
+2	Axon guidance mediated by Slit/Robo (P00008)	2	0.2%	0.7%
+3	Axon guidance mediated by semaphorins (P00007)	1	0.1%	0.3%
+4	Apoptosis signaling pathway (P00006)	2	0.2%	0.7%
+5	Gonadotropin-releasing hormone receptor pathway (P06664)	3	0.3%	1.0%
+6	Angiogenesis (P00005)	1	0.1%	0.3%
+7	Alzheimer disease-presenilin pathway (P00004)	4	0.4%	1.4%
+8	Alzheimer disease-amyloid secretase pathway (P00003)	1	0.1%	0.3%
+9	Adrenaline and noradrenaline biosynthesis (P00001)	2	0.2%	0.7%
+10	Methylcitrate cycle (P02754)	1	0.1%	0.3%
+11	Ubiquitin proteasome pathway (P00060)	22	2.1%	7.7%
+12	p53 pathway (P00059)	7	0.7%	2.4%
+13	mRNA splicing (P00058)	4	0.4%	1.4%
+14	Wnt signaling pathway (P00057)	17	1.6%	5.9%
+15	Fructose galactose metabolism (P02744)	1	0.1%	0.3%
+16	Transcription regulation by bZIP transcription factor (P00055)	19	1.8%	6.6%
+17	T cell activation (P00053)	1	0.1%	0.3%
+18	TGF-beta signaling pathway (P00052)	1	0.1%	0.3%
+19	Parkinson disease (P00049)	19	1.8%	6.6%
+20	PI3 kinase pathway (P00048)	1	0.1%	0.3%
+21	PDGF signaling pathway (P00047)	4	0.4%	1.4%
+22	Oxidative stress response (P00046)	2	0.2%	0.7%
+23	Notch signaling pathway (P00045)	1	0.1%	0.3%
+24	Nicotinic acetylcholine receptor signaling pathway (P00044)	3	0.3%	1.0%
+25	Muscarinic acetylcholine receptor 2 and 4 signaling pathway (P00043)	2	0.2%	0.7%
+26	Muscarinic acetylcholine receptor 1 and 3 signaling pathway (P00042)	2	0.2%	0.7%
+27	Metabotropic glutamate receptor group II pathway (P00040)	2	0.2%	0.7%
+28	Arginine biosynthesis (P02728)	3	0.3%	1.0%
+29	Metabotropic glutamate receptor group III pathway (P00039)	2	0.2%	0.7%
+30	Ionotropic glutamate receptor pathway (P00037)	1	0.1%	0.3%
+31	Interleukin signaling pathway (P00036)	1	0.1%	0.3%
+32	Integrin signalling pathway (P00034)	9	0.8%	3.1%
+33	Insulin/IGF pathway-protein kinase B signaling cascade (P00033)	1	0.1%	0.3%
+34	ATP synthesis (P02721)	6	0.6%	2.1%
+35	p53 pathway feedback loops 2 (P04398)	2	0.2%	0.7%
+36	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	8	0.8%	2.8%
+37	p53 pathway by glucose deprivation (P04397)	4	0.4%	1.4%
+38	Hypoxia response via HIF activation (P00030)	3	0.3%	1.0%
+39	Thyrotropin-releasing hormone receptor signaling pathway (P04394)	2	0.2%	0.7%
+40	Ras Pathway (P04393)	3	0.3%	1.0%
+41	Oxytocin receptor mediated signaling pathway (P04391)	2	0.2%	0.7%
+42	Huntington disease (P00029)	11	1.0%	3.8%
+43	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction (P00028)	2	0.2%	0.7%
+44	Heterotrimeric G-protein signaling pathway-Gq alpha and Go alpha mediated pathway (P00027)	1	0.1%	0.3%
+45	p38 MAPK pathway (P05918)	1	0.1%	0.3%
+46	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	2	0.2%	0.7%
+47	Opioid proopiomelanocortin pathway (P05917)	2	0.2%	0.7%
+48	Opioid prodynorphin pathway (P05916)	2	0.2%	0.7%
+49	Opioid proenkephalin pathway (P05915)	2	0.2%	0.7%
+50	General transcription regulation (P00023)	16	1.5%	5.6%
+51	General transcription by RNA polymerase I (P00022)	5	0.5%	1.7%
+52	Nicotine pharmacodynamics pathway (P06587)	2	0.2%	0.7%
+53	Enkephalin release (P05913)	1	0.1%	0.3%
+54	FGF signaling pathway (P00021)	4	0.4%	1.4%
+55	Dopamine receptor mediated signaling pathway (P05912)	3	0.3%	1.0%
+56	FAS signaling pathway (P00020)	1	0.1%	0.3%
+57	Histamine H2 receptor mediated signaling pathway (P04386)	1	0.1%	0.3%
+58	Histamine H1 receptor mediated signaling pathway (P04385)	1	0.1%	0.3%
+59	Cortocotropin releasing factor receptor signaling pathway (P04380)	2	0.2%	0.7%
+60	EGF receptor signaling pathway (P00018)	6	0.6%	2.1%
+61	DNA replication (P00017)	9	0.8%	3.1%
+62	Cytoskeletal regulation by Rho GTPase (P00016)	9	0.8%	3.1%
+63	Cell cycle (P00013)	12	1.1%	4.2%
+64	Cadherin signaling pathway (P00012)	5	0.5%	1.7%
+65	Beta3 adrenergic receptor signaling pathway (P04379)	2	0.2%	0.7%
+66	Beta2 adrenergic receptor signaling pathway (P04378)	2	0.2%	0.7%
+67	B cell activation (P00010)	1	0.1%	0.3%
+68	Beta1 adrenergic receptor signaling pathway (P04377)	2	0.2%	0.7%
+69	5HT4 type receptor mediated signaling pathway (P04376)	2	0.2%	0.7%
+70	5HT3 type receptor mediated signaling pathway (P04375)	1	0.1%	0.3%
+71	5HT2 type receptor mediated signaling pathway (P04374)	2	0.2%	0.7%
+72	5HT1 type receptor mediated signaling pathway (P04373)	2	0.2%	0.7%

@@ -1,0 +1,55 @@
+1	De novo pyrimidine deoxyribonucleotide biosynthesis (P02739)	1	0.1%	0.4%
+2	Apoptosis signaling pathway (P00006)	2	0.2%	0.8%
+3	De novo purine biosynthesis (P02738)	2	0.2%	0.8%
+4	Angiogenesis (P00005)	2	0.2%	0.8%
+5	Alzheimer disease-presenilin pathway (P00004)	5	0.5%	2.1%
+6	Interleukin signaling pathway (P00036)	1	0.1%	0.4%
+7	Alzheimer disease-amyloid secretase pathway (P00003)	1	0.1%	0.4%
+8	Integrin signalling pathway (P00034)	7	0.7%	2.9%
+9	Chorismate biosynthesis (P02734)	1	0.1%	0.4%
+10	Insulin/IGF pathway-protein kinase B signaling cascade (P00033)	3	0.3%	1.3%
+11	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	7	0.7%	2.9%
+12	Hypoxia response via HIF activation (P00030)	2	0.2%	0.8%
+13	Ubiquitin proteasome pathway (P00060)	16	1.6%	6.7%
+14	Nicotine pharmacodynamics pathway (P06587)	1	0.1%	0.4%
+15	Huntington disease (P00029)	10	1.0%	4.2%
+16	Heterotrimeric G-protein signaling pathway-rod outer segment phototransduction (P00028)	1	0.1%	0.4%
+17	p53 pathway (P00059)	8	0.8%	3.3%
+18	p53 pathway feedback loops 2 (P04398)	4	0.4%	1.7%
+19	p53 pathway by glucose deprivation (P04397)	4	0.4%	1.7%
+20	mRNA splicing (P00058)	4	0.4%	1.7%
+21	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	1	0.1%	0.4%
+22	Wnt signaling pathway (P00057)	22	2.3%	9.2%
+23	Aminobutyrate degradation (P02726)	1	0.1%	0.4%
+24	Vasopressin synthesis (P04395)	1	0.1%	0.4%
+25	VEGF signaling pathway (P00056)	1	0.1%	0.4%
+26	Glycolysis (P00024)	2	0.2%	0.8%
+27	Transcription regulation by bZIP transcription factor (P00055)	17	1.7%	7.1%
+28	General transcription regulation (P00023)	14	1.4%	5.8%
+29	Ras Pathway (P04393)	3	0.3%	1.3%
+30	General transcription by RNA polymerase I (P00022)	3	0.3%	1.3%
+31	T cell activation (P00053)	2	0.2%	0.8%
+32	FGF signaling pathway (P00021)	6	0.6%	2.5%
+33	TGF-beta signaling pathway (P00052)	2	0.2%	0.8%
+34	Endothelin signaling pathway (P00019)	1	0.1%	0.4%
+35	EGF receptor signaling pathway (P00018)	5	0.5%	2.1%
+36	Parkinson disease (P00049)	20	2.0%	8.3%
+37	DNA replication (P00017)	11	1.1%	4.6%
+38	PI3 kinase pathway (P00048)	1	0.1%	0.4%
+39	Cytoskeletal regulation by Rho GTPase (P00016)	7	0.7%	2.9%
+40	PDGF signaling pathway (P00047)	5	0.5%	2.1%
+41	Circadian clock system (P00015)	1	0.1%	0.4%
+42	Oxidative stress response (P00046)	1	0.1%	0.4%
+43	Sulfate assimilation (P02778)	1	0.1%	0.4%
+44	Notch signaling pathway (P00045)	1	0.1%	0.4%
+45	Cell cycle (P00013)	12	1.2%	5.0%
+46	Gamma-aminobutyric acid synthesis (P04384)	1	0.1%	0.4%
+47	Cadherin signaling pathway (P00012)	5	0.5%	2.1%
+48	Nicotinic acetylcholine receptor signaling pathway (P00044)	2	0.2%	0.8%
+49	Dopamine receptor mediated signaling pathway (P05912)	1	0.1%	0.4%
+50	B cell activation (P00010)	1	0.1%	0.4%
+51	S-adenosylmethionine biosynthesis (P02773)	1	0.1%	0.4%
+52	CCKR signaling map (P06959)	1	0.1%	0.4%
+53	De novo pyrimidine ribonucleotides biosythesis (P02740)	1	0.1%	0.4%
+54	Pyrimidine Metabolism (P02771)	1	0.1%	0.4%
+55	Gonadotropin-releasing hormone receptor pathway (P06664)	3	0.3%	1.3%
